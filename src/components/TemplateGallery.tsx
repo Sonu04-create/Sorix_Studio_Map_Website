@@ -32,7 +32,8 @@ export default function TemplateGallery() {
   const types = Array.from(new Set(businesses.map((b) => b.type)));
 
   const copyUrl = (slug: string) => {
-    const url = `${window.location.origin}/demos/${slug}`;
+    const cleanSlug = slug.toLowerCase().trim().replace(/[\s_]+/g, '-');
+    const url = `${window.location.origin}/demos/${cleanSlug}`;
     navigator.clipboard.writeText(url);
     setCopiedSlug(slug);
     setTimeout(() => setCopiedSlug(null), 2000);
