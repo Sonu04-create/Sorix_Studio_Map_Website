@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react';
-import { Menu, X, Phone } from 'lucide-react';
+import { Menu, X, Phone, ArrowLeft } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import type { BusinessData } from '@/types/business';
 import { useScrollPosition } from '@/hooks/useScrollPosition';
 import { useActiveSection } from '@/hooks/useActiveSection';
@@ -52,7 +53,7 @@ export default function Navbar({ business }: NavbarProps) {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
+      className={`fixed top-10 left-0 right-0 z-40 transition-all duration-500 ${
         scrolled
           ? 'py-3 shadow-2xl backdrop-blur-xl'
           : 'py-5 bg-transparent'
@@ -60,20 +61,33 @@ export default function Navbar({ business }: NavbarProps) {
       style={scrolled ? { backgroundColor: 'rgba(var(--brand-secondary-rgb), 0.85)' } : undefined}
     >
       <nav className="container-mx container-px flex items-center justify-between">
-        <a
-          href="#home"
-          onClick={(e) => handleNavClick(e, '#home')}
-          className="group flex items-center gap-2 text-xl font-bold tracking-tight"
-          style={{ fontFamily: 'var(--brand-heading-font)' }}
-        >
-          <span
-            className="flex h-9 w-9 items-center justify-center rounded-lg text-white transition-transform duration-300 group-hover:rotate-12"
-            style={{ backgroundColor: 'var(--brand-primary)' }}
+        <div className="flex items-center gap-3">
+          {/* Back to Sorix Studio Button */}
+          <Link
+            to="/"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-black/60 hover:bg-red-600 text-white border border-white/20 hover:border-red-500 text-xs font-semibold transition-all shadow-md"
+            title="Return to Sorix Studio Main Website"
           >
-            {business.logoText.charAt(0)}
-          </span>
-          <span className="transition-colors group-hover:text-[var(--brand-primary)]">{business.logoText}</span>
-        </a>
+            <ArrowLeft className="h-3.5 w-3.5" />
+            <span className="hidden sm:inline">Sorix Studio</span>
+          </Link>
+
+          {/* Business Logo & Name */}
+          <a
+            href="#home"
+            onClick={(e) => handleNavClick(e, '#home')}
+            className="group flex items-center gap-2 text-xl font-bold tracking-tight"
+            style={{ fontFamily: 'var(--brand-heading-font)' }}
+          >
+            <span
+              className="flex h-9 w-9 items-center justify-center rounded-lg text-white transition-transform duration-300 group-hover:rotate-12"
+              style={{ backgroundColor: 'var(--brand-primary)' }}
+            >
+              {business.logoText.charAt(0)}
+            </span>
+            <span className="transition-colors group-hover:text-[var(--brand-primary)]">{business.logoText}</span>
+          </a>
+        </div>
 
         <div className="hidden items-center gap-1 lg:flex">
           {navItems.map((item) => (
@@ -98,7 +112,7 @@ export default function Navbar({ business }: NavbarProps) {
           ))}
         </div>
 
-        <div className="hidden lg:block">
+        <div className="hidden lg:flex items-center gap-2">
           <a
             href={business.contact.phone ? `tel:${business.contact.phone}` : '#contact'}
             className="btn-primary text-sm"
@@ -125,6 +139,14 @@ export default function Navbar({ business }: NavbarProps) {
       <div className={`overflow-hidden transition-all duration-500 lg:hidden ${open ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'}`}>
         <div className="container-mx container-px mt-4">
           <div className="glass-card flex flex-col gap-1 rounded-2xl p-4">
+            <Link
+              to="/"
+              className="rounded-lg px-4 py-3 text-sm font-bold text-red-400 bg-red-950/40 border border-red-500/30 flex items-center gap-2"
+              onClick={() => setOpen(false)}
+            >
+              <ArrowLeft className="h-4 w-4" />
+              <span>← Back to Sorix Studio Home</span>
+            </Link>
             {navItems.map((item) => (
               <a
                 key={item.key}
