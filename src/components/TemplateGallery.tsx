@@ -116,7 +116,7 @@ export default function TemplateGallery() {
               {/* Image Preview Banner */}
               <div className="relative h-48 overflow-hidden bg-gradient-to-br from-neutral-900 to-black">
                 <img
-                  src={b.hero.imageUrl}
+                  src={(b.hero as any).imageUrl || b.hero.image}
                   alt={b.name}
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 opacity-80 group-hover:opacity-100"
                 />

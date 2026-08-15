@@ -1,9 +1,9 @@
 import type { BusinessData } from '@/types/business';
-import ironHouse from './iron-house';
+import amravatiGyms from './amravati-gyms';
 import urbanSpoon from './urban-spoon';
 import glowSalon from './glow-salon';
 
-export const businesses: BusinessData[] = [ironHouse, urbanSpoon, glowSalon];
+export const businesses: BusinessData[] = [...amravatiGyms, urbanSpoon, glowSalon];
 
 export function getBusinessBySlug(slug: string): BusinessData | undefined {
   if (!slug) return undefined;
