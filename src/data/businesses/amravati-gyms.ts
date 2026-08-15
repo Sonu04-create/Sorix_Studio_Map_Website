@@ -1670,46 +1670,143 @@ export const talwalkarsgymGym: BusinessData = {
   },
   "services": [
     {
-      "title": "Core Services - Talwalkars Gym",
-      "description": "Specialized programs and services tailored for clients in Amravati.",
-      "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "CheckCircle",
-      "cta": "Explore Services"
+      "title": "Personal Training & Fitness Coaching",
+      "description": "One-on-one customized workout plans, body measurement tracking, and dedicated coaching designed for your fitness goals.",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80",
+      "icon": "UserCheck",
+      "price": "From ₹1,500/mo",
+      "cta": "Book Session"
     },
     {
-      "title": "Personalized Consultations",
-      "description": "One-on-one sessions customized to your specific needs.",
-      "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "UserCheck",
-      "cta": "Book Consultation"
+      "title": "Heavy Weight & Powerlifting Zone",
+      "description": "Full access to Olympic barbells, heavy dumbbells up to 50kg, squat racks, and specialized resistance machines.",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=800&q=80",
+      "icon": "Dumbbell",
+      "price": "Included",
+      "cta": "Explore Zone"
+    },
+    {
+      "title": "Group HIIT & Cardio Workouts",
+      "description": "High-energy group cardio, stamina sessions, spinning classes, and functional agility drills led by expert coaches.",
+      "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=800&q=80",
+      "icon": "Flame",
+      "price": "Included",
+      "cta": "View Schedule"
+    },
+    {
+      "title": "Custom Diet & Nutrition Plans",
+      "description": "Scientific body composition analysis, macro planning, and diet consultations tailored for lean muscle gain or weight loss.",
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=80",
+      "icon": "HeartPulse",
+      "price": "Custom Plan",
+      "cta": "Consult Expert"
     }
   ],
   "team": [
     {
-      "name": "Lead Specialist - Talwalkars Gym",
-      "role": "Chief Expert",
-      "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
-      "experience": "10+ Years"
+      "name": "Vikram Singh",
+      "role": "Head Fitness & Strength Coach",
+      "photo": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=600&h=800&q=80",
+      "description": "12+ years experience in heavy strength training, posture correction, and body transformation at Talwalkars Gym.",
+      "experience": "12+ Years",
+      "social": {
+        "instagram": "https://instagram.com",
+        "facebook": "https://facebook.com"
+      }
+    },
+    {
+      "name": "Ananya Sharma",
+      "role": "Lead Nutritionist & Personal Trainer",
+      "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&h=800&q=80",
+      "description": "Certified fitness trainer specializing in fat loss programs, sustainable nutrition, and metabolic conditioning.",
+      "experience": "8+ Years",
+      "social": {
+        "instagram": "https://instagram.com",
+        "linkedin": "https://linkedin.com"
+      }
+    },
+    {
+      "name": "Rahul Verma",
+      "role": "Bodybuilding & Physique Specialist",
+      "photo": "https://images.unsplash.com/photo-1567013127542-490d757e51fc?auto=format&fit=crop&w=600&h=800&q=80",
+      "description": "Expert in muscle hypertrophy, athletic conditioning, and powerlifting technique.",
+      "experience": "6+ Years",
+      "social": {
+        "instagram": "https://instagram.com",
+        "youtube": "https://youtube.com"
+      }
+    },
+    {
+      "name": "Priya Patel",
+      "role": "Group HIIT & Mobility Instructor",
+      "photo": "https://images.unsplash.com/photo-1594381898411-846e7d193883?auto=format&fit=crop&w=600&h=800&q=80",
+      "description": "Drives high-energy group fitness classes, agility routines, and mobility recovery sessions.",
+      "experience": "5+ Years",
+      "social": {
+        "instagram": "https://instagram.com",
+        "facebook": "https://facebook.com"
+      }
     }
   ],
   "gallery": [
     {
-      "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&h=800&q=80",
       "category": "Facility",
-      "caption": "Talwalkars Gym Facility"
+      "caption": "Talwalkars Gym Dumbbell & Free Weights Area"
     },
     {
-      "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Services",
-      "caption": "Service Area"
+      "image": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Facility",
+      "caption": "Cardio Lineup & Treadmills Station"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Training",
+      "caption": "1-on-1 Personal Training Session"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Classes",
+      "caption": "Group HIIT & Stamina Workout"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Equipment",
+      "caption": "Power Racks & Squat Benches"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?auto=format&fit=crop&w=1200&h=800&q=80",
+      "category": "Training",
+      "caption": "Functional Kettlebell & Core Rig"
     }
   ],
   "testimonials": [
     {
-      "name": "Verified Client",
-      "review": "Excellent experience at Talwalkars Gym! Highly recommended in Amravati.",
+      "name": "Amit Deshmukh",
+      "review": "Joined Talwalkars Gym 6 months ago and my progress has been incredible! Excellent equipment, hygienic floor, and coaches who refine your lifting form.",
       "rating": 5,
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "isDemo": true
+    },
+    {
+      "name": "Sneha Kulkarni",
+      "review": "The group fitness and cardio sessions are high energy! Best gym in Amravati with super clean facilities and friendly coaches.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+      "isDemo": true
+    },
+    {
+      "name": "Rajesh Patil",
+      "review": "State-of-the-art weights and personal training. My strength and stamina have doubled since working with the head coach here!",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+      "isDemo": true
+    },
+    {
+      "name": "Neha Sharma",
+      "review": "Clean, spacious, and well-maintained. The steam room and locker facilities are great after heavy workout sessions.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
       "isDemo": true
     }
   ],

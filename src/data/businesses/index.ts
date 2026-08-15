@@ -2,8 +2,10 @@ import type { BusinessData } from '@/types/business';
 import amravatiGyms from './amravati-gyms';
 import urbanSpoon from './urban-spoon';
 import glowSalon from './glow-salon';
+import { enrichBusinessData } from '@/utils/enrichBusinessData';
 
-export const businesses: BusinessData[] = [...amravatiGyms, urbanSpoon, glowSalon];
+const rawBusinesses: BusinessData[] = [...amravatiGyms, urbanSpoon, glowSalon];
+export const businesses: BusinessData[] = rawBusinesses.map(enrichBusinessData);
 
 export function getBusinessBySlug(slug: string): BusinessData | undefined {
   if (!slug) return undefined;
@@ -13,7 +15,7 @@ export function getBusinessBySlug(slug: string): BusinessData | undefined {
   const normalized = decoded.replace(/[\s_]+/g, '-');
   const cleanDecoded = decoded.replace(/[^\w]/g, '');
 
-  return businesses.find((b) => {
+  const found = rawBusinesses.find((b) => {
     const bSlug = b.slug.toLowerCase();
     const bName = b.name.toLowerCase();
     const bPhoneDigits = b.contact.phone ? b.contact.phone.replace(/\D/g, '') : '';
@@ -30,8 +32,11 @@ export function getBusinessBySlug(slug: string): BusinessData | undefined {
       (inputDigits.length >= 8 && bPhoneDigits.includes(inputDigits))
     );
   });
+
+  return found ? enrichBusinessData(found) : undefined;
 }
 
 export function getBusinessSlugs(): string[] {
   return businesses.map((b) => b.slug);
 }
+
