@@ -53,7 +53,7 @@ export default function Navbar({ business }: NavbarProps) {
 
   return (
     <header
-      className={`fixed top-10 left-0 right-0 z-40 transition-all duration-500 ${
+      className={`fixed top-0 left-0 right-0 z-40 transition-all duration-500 ${
         scrolled
           ? 'py-3 shadow-2xl backdrop-blur-xl'
           : 'py-5 bg-transparent'
@@ -62,16 +62,6 @@ export default function Navbar({ business }: NavbarProps) {
     >
       <nav className="container-mx container-px flex items-center justify-between">
         <div className="flex items-center gap-3">
-          {/* Back to Main Home Button */}
-          <Link
-            to="/"
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-red-600 hover:bg-red-500 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-lg hover:scale-105"
-            title="Return to Main Home Page"
-          >
-            <ArrowLeft className="h-3.5 w-3.5" />
-            <span>Main Home</span>
-          </Link>
-
           {/* Business Logo & Name */}
           <a
             href="#home"
@@ -139,14 +129,6 @@ export default function Navbar({ business }: NavbarProps) {
       <div className={`overflow-hidden transition-all duration-500 lg:hidden ${open ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'}`}>
         <div className="container-mx container-px mt-4">
           <div className="glass-card flex flex-col gap-1 rounded-2xl p-4">
-            <Link
-              to="/"
-              className="rounded-lg px-4 py-3 text-sm font-bold text-red-400 bg-red-950/40 border border-red-500/30 flex items-center gap-2"
-              onClick={() => setOpen(false)}
-            >
-              <ArrowLeft className="h-4 w-4" />
-              <span>← Back to Sorix Studio Home</span>
-            </Link>
             {navItems.map((item) => (
               <a
                 key={item.key}
