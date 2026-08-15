@@ -62,14 +62,14 @@ export default function Navbar({ business }: NavbarProps) {
     >
       <nav className="container-mx container-px flex items-center justify-between">
         <div className="flex items-center gap-3">
-          {/* Back to Sorix Studio Button */}
+          {/* Back to Main Home Button */}
           <Link
             to="/"
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-black/60 hover:bg-red-600 text-white border border-white/20 hover:border-red-500 text-xs font-semibold transition-all shadow-md"
-            title="Return to Sorix Studio Main Website"
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-red-600 hover:bg-red-500 text-white font-bold text-xs uppercase tracking-wider transition-all shadow-lg hover:scale-105"
+            title="Return to Main Home Page"
           >
             <ArrowLeft className="h-3.5 w-3.5" />
-            <span className="hidden sm:inline">Sorix Studio</span>
+            <span>Main Home</span>
           </Link>
 
           {/* Business Logo & Name */}
