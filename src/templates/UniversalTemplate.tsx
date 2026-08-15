@@ -39,7 +39,7 @@ export default function UniversalTemplate({ business }: UniversalTemplateProps) 
   return (
     <div className="min-h-screen bg-brand">
       <WatermarkBadge isDemo={true} />
-      <PageLoader />
+      <PageLoader businessName={business.logoText || business.name} />
       <CustomCursor />
       <ScrollProgress />
       <Navbar business={business} />

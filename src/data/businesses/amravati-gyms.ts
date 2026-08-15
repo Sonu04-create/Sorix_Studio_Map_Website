@@ -5,8 +5,8 @@ export const reformsclubGym: BusinessData = {
   "slug": "reforms-club",
   "name": "Reforms Club",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Reforms Club is a premier fitness center located in Amravati. Rated 4.4\u2605 on Google Maps with over 327 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Club",
+  "description": "Reforms Club is located in Amravati (Maltekdi, Amravati, Maharashtra 444602). Rated 4.4\u2605 on Google Maps with over 327 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "REFORMS CLUB",
   "contact": {
     "phone": "087935 79969",
@@ -39,11 +39,11 @@ export const reformsclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.4\u2605 Google Rating)",
-    "heading": "Transform Your Body at Reforms Club",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.4\u2605 Google Rating)",
+    "heading": "Welcome to Reforms Club",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -58,174 +58,73 @@ export const reformsclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Reforms Club in Amravati?",
-    "description": "Located at Maltekdi, Amravati, Maharashtra 444602, Reforms Club provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Reforms Club",
+    "description": "Located at Maltekdi, Amravati, Maharashtra 444602, Reforms Club offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.4/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "327+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Reforms Club",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Reforms Club",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Reforms Club Main Floor"
+      "caption": "Reforms Club Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Reforms Club has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Reforms Club 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Reforms Club! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -249,23 +148,23 @@ export const reformsclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Reforms Club",
-    "subtitle": "Maltekdi, Amravati, Maharashtra 444602. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Maltekdi, Amravati, Maharashtra 444602. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Reforms Club?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Reforms Club",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -282,8 +181,8 @@ export const athleanfitnessclubGym: BusinessData = {
   "slug": "athlean-fitness-club",
   "name": "Athlean Fitness Club",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Athlean Fitness Club is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 267 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Athlean Fitness Club is located in Amravati (Bhende Business Park, Khaparde Bagicha, Amravati, Maharashtra 444602). Rated 4.5\u2605 on Google Maps with over 267 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "ATHLEAN FITNESS CLUB",
   "contact": {
     "phone": "070206 05746",
@@ -316,11 +215,11 @@ export const athleanfitnessclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at Athlean Fitness Club",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to Athlean Fitness Club",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -335,174 +234,73 @@ export const athleanfitnessclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Athlean Fitness Club in Amravati?",
-    "description": "Located at Bhende Business Park, Khaparde Bagicha, Amravati, Maharashtra 444602, Athlean Fitness Club provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Athlean Fitness Club",
+    "description": "Located at Bhende Business Park, Khaparde Bagicha, Amravati, Maharashtra 444602, Athlean Fitness Club offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "267+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Athlean Fitness Club",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Athlean Fitness Club",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Athlean Fitness Club Main Floor"
+      "caption": "Athlean Fitness Club Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Athlean Fitness Club has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Athlean Fitness Club 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Athlean Fitness Club! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -526,23 +324,23 @@ export const athleanfitnessclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Athlean Fitness Club",
-    "subtitle": "Bhende Business Park, Khaparde Bagicha, Amravati, Maharashtra 444602. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Bhende Business Park, Khaparde Bagicha, Amravati, Maharashtra 444602. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Athlean Fitness Club?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Athlean Fitness Club",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -559,8 +357,8 @@ export const atharvasfitnessworldGym: BusinessData = {
   "slug": "atharvas-fitness-world",
   "name": "Atharva's Fitness World",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Atharva's Fitness World is a premier fitness center located in Amravati. Rated 4.3\u2605 on Google Maps with over 263 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Atharva's Fitness World is located in Amravati (Pawan Medical Lane, near Isckon Temple, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603). Rated 4.3\u2605 on Google Maps with over 263 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "ATHARVA'S FITNESS WORLD",
   "contact": {
     "phone": "090491 50310",
@@ -570,7 +368,7 @@ export const atharvasfitnessworldGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/atharvas-fitness-world",
     "googleMaps": "https://www.google.com/maps?cid=7058644819870928987",
     "social": {
       "instagram": "",
@@ -593,11 +391,11 @@ export const atharvasfitnessworldGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.3\u2605 Google Rating)",
-    "heading": "Transform Your Body at Atharva's Fitness World",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.3\u2605 Google Rating)",
+    "heading": "Welcome to Atharva's Fitness World",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -612,174 +410,73 @@ export const atharvasfitnessworldGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Atharva's Fitness World in Amravati?",
-    "description": "Located at Pawan Medical Lane, near Isckon Temple, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603, Atharva's Fitness World provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Atharva's Fitness World",
+    "description": "Located at Pawan Medical Lane, near Isckon Temple, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603, Atharva's Fitness World offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.3/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "263+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Atharva's Fitness World",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Atharva's Fitness World",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Atharva's Fitness World Main Floor"
+      "caption": "Atharva's Fitness World Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Atharva's Fitness World has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Atharva's Fitness World 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Atharva's Fitness World! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -803,23 +500,23 @@ export const atharvasfitnessworldGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Atharva's Fitness World",
-    "subtitle": "Pawan Medical Lane, near Isckon Temple, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Pawan Medical Lane, near Isckon Temple, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Atharva's Fitness World?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Atharva's Fitness World",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -836,8 +533,8 @@ export const fitnessarenaGym: BusinessData = {
   "slug": "fitness-arena",
   "name": "FITNESS ARENA",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "FITNESS ARENA is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 253 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "FITNESS ARENA is located in Amravati (VPQV+V23, Fitness Arena ,Sadguru Sankul , Sadguru Dham Colony, Sai Nagar, Amravati, Maharashtra 444607). Rated 4.5\u2605 on Google Maps with over 253 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "FITNESS ARENA",
   "contact": {
     "phone": "070206 03937",
@@ -870,11 +567,11 @@ export const fitnessarenaGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at FITNESS ARENA",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to FITNESS ARENA",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -889,174 +586,73 @@ export const fitnessarenaGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose FITNESS ARENA in Amravati?",
-    "description": "Located at VPQV+V23, Fitness Arena ,Sadguru Sankul , Sadguru Dham Colony, Sai Nagar, Amravati, Maharashtra 444607, FITNESS ARENA provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About FITNESS ARENA",
+    "description": "Located at VPQV+V23, Fitness Arena ,Sadguru Sankul , Sadguru Dham Colony, Sai Nagar, Amravati, Maharashtra 444607, FITNESS ARENA offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "253+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - FITNESS ARENA",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - FITNESS ARENA",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "FITNESS ARENA Main Floor"
+      "caption": "FITNESS ARENA Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! FITNESS ARENA has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined FITNESS ARENA 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at FITNESS ARENA! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -1080,23 +676,23 @@ export const fitnessarenaGym: BusinessData = {
   ],
   "location": {
     "title": "Visit FITNESS ARENA",
-    "subtitle": "VPQV+V23, Fitness Arena ,Sadguru Sankul , Sadguru Dham Colony, Sai Nagar, Amravati, Maharashtra 444607. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "VPQV+V23, Fitness Arena ,Sadguru Sankul , Sadguru Dham Colony, Sai Nagar, Amravati, Maharashtra 444607. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at FITNESS ARENA?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with FITNESS ARENA",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -1113,8 +709,8 @@ export const elitesportsandfitnessworldGym: BusinessData = {
   "slug": "elite-sports-and-fitness-world",
   "name": "Elite Sports And Fitness World",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Elite Sports And Fitness World is a premier fitness center located in Amravati. Rated 4.1\u2605 on Google Maps with over 250 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Outdoor sports store",
+  "description": "Elite Sports And Fitness World is located in Amravati (WQM3+2PX, Cotton Market Rd, opposite gopal kirana store, Amrawati Tahsil, Amravati, Maharashtra 444601). Rated 4.1\u2605 on Google Maps with over 250 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "ELITE SPORTS AND FITNESS WORLD",
   "contact": {
     "phone": "094208 32720",
@@ -1124,7 +720,7 @@ export const elitesportsandfitnessworldGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/elite-sports-and-fitness-world",
     "googleMaps": "https://www.google.com/maps?cid=5620499280978544628",
     "social": {
       "instagram": "",
@@ -1147,11 +743,11 @@ export const elitesportsandfitnessworldGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.1\u2605 Google Rating)",
-    "heading": "Transform Your Body at Elite Sports And Fitness World",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.1\u2605 Google Rating)",
+    "heading": "Welcome to Elite Sports And Fitness World",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -1166,174 +762,73 @@ export const elitesportsandfitnessworldGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Elite Sports And Fitness World in Amravati?",
-    "description": "Located at WQM3+2PX, Cotton Market Rd, opposite gopal kirana store, Amrawati Tahsil, Amravati, Maharashtra 444601, Elite Sports And Fitness World provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Elite Sports And Fitness World",
+    "description": "Located at WQM3+2PX, Cotton Market Rd, opposite gopal kirana store, Amrawati Tahsil, Amravati, Maharashtra 444601, Elite Sports And Fitness World offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.1/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "250+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Elite Sports And Fitness World",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Elite Sports And Fitness World",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Elite Sports And Fitness World Main Floor"
+      "caption": "Elite Sports And Fitness World Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Elite Sports And Fitness World has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Elite Sports And Fitness World 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Elite Sports And Fitness World! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -1357,23 +852,23 @@ export const elitesportsandfitnessworldGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Elite Sports And Fitness World",
-    "subtitle": "WQM3+2PX, Cotton Market Rd, opposite gopal kirana store, Amrawati Tahsil, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "WQM3+2PX, Cotton Market Rd, opposite gopal kirana store, Amrawati Tahsil, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Elite Sports And Fitness World?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Elite Sports And Fitness World",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -1390,8 +885,8 @@ export const kometathegymGym: BusinessData = {
   "slug": "kometa-the-gym",
   "name": "KOMETA THE GYM",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "KOMETA THE GYM is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 248 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "KOMETA THE GYM is located in Amravati (First Floor, Amba Apartment, Pote Patil Rd, Kathora Naka, Siddhivinayak Nagar, Amravati, Maharashtra 444604). Rated 4.5\u2605 on Google Maps with over 248 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "KOMETA THE GYM",
   "contact": {
     "phone": "078418 97047",
@@ -1401,7 +896,7 @@ export const kometathegymGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/kometa-the-gym",
     "googleMaps": "https://www.google.com/maps?cid=11344749705590087557",
     "social": {
       "instagram": "",
@@ -1424,11 +919,11 @@ export const kometathegymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at KOMETA THE GYM",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to KOMETA THE GYM",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -1443,174 +938,73 @@ export const kometathegymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose KOMETA THE GYM in Amravati?",
-    "description": "Located at First Floor, Amba Apartment, Pote Patil Rd, Kathora Naka, Siddhivinayak Nagar, Amravati, Maharashtra 444604, KOMETA THE GYM provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About KOMETA THE GYM",
+    "description": "Located at First Floor, Amba Apartment, Pote Patil Rd, Kathora Naka, Siddhivinayak Nagar, Amravati, Maharashtra 444604, KOMETA THE GYM offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "248+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - KOMETA THE GYM",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - KOMETA THE GYM",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "KOMETA THE GYM Main Floor"
+      "caption": "KOMETA THE GYM Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! KOMETA THE GYM has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined KOMETA THE GYM 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at KOMETA THE GYM! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -1634,23 +1028,23 @@ export const kometathegymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit KOMETA THE GYM",
-    "subtitle": "First Floor, Amba Apartment, Pote Patil Rd, Kathora Naka, Siddhivinayak Nagar, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "First Floor, Amba Apartment, Pote Patil Rd, Kathora Naka, Siddhivinayak Nagar, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at KOMETA THE GYM?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with KOMETA THE GYM",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -1667,8 +1061,8 @@ export const welliestafitnessbestgymfitnessstudioGym: BusinessData = {
   "slug": "welliesta-fitness-best-gym-fitness-studio",
   "name": "Welliesta Fitness (Best Gym, Fitness Studio)",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Welliesta Fitness (Best Gym, Fitness Studio) is a premier fitness center located in Amravati. Rated 4.4\u2605 on Google Maps with over 243 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Welliesta Fitness (Best Gym, Fitness Studio) is located in Amravati (Raashi Trinity, Nalanda Colony, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607). Rated 4.4\u2605 on Google Maps with over 243 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "WELLIESTA FITNESS (BEST GYM, FITNESS STUDIO)",
   "contact": {
     "phone": "096372 66663",
@@ -1678,7 +1072,7 @@ export const welliestafitnessbestgymfitnessstudioGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/welliesta-fitness-best-gym-fitness-studio",
     "googleMaps": "https://www.google.com/maps?cid=1419656748385588811",
     "social": {
       "instagram": "",
@@ -1701,11 +1095,11 @@ export const welliestafitnessbestgymfitnessstudioGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.4\u2605 Google Rating)",
-    "heading": "Transform Your Body at Welliesta Fitness (Best Gym, Fitness Studio)",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.4\u2605 Google Rating)",
+    "heading": "Welcome to Welliesta Fitness (Best Gym, Fitness Studio)",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -1720,174 +1114,73 @@ export const welliestafitnessbestgymfitnessstudioGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Welliesta Fitness (Best Gym, Fitness Studio) in Amravati?",
-    "description": "Located at Raashi Trinity, Nalanda Colony, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607, Welliesta Fitness (Best Gym, Fitness Studio) provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Welliesta Fitness (Best Gym, Fitness Studio)",
+    "description": "Located at Raashi Trinity, Nalanda Colony, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607, Welliesta Fitness (Best Gym, Fitness Studio) offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.4/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "243+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Welliesta Fitness (Best Gym, Fitness Studio)",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Welliesta Fitness (Best Gym, Fitness Studio)",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Welliesta Fitness (Best Gym, Fitness Studio) Main Floor"
+      "caption": "Welliesta Fitness (Best Gym, Fitness Studio) Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Welliesta Fitness (Best Gym, Fitness Studio) has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Welliesta Fitness (Best Gym, Fitness Studio) 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Welliesta Fitness (Best Gym, Fitness Studio)! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -1911,23 +1204,23 @@ export const welliestafitnessbestgymfitnessstudioGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Welliesta Fitness (Best Gym, Fitness Studio)",
-    "subtitle": "Raashi Trinity, Nalanda Colony, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Raashi Trinity, Nalanda Colony, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Welliesta Fitness (Best Gym, Fitness Studio)?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Welliesta Fitness (Best Gym, Fitness Studio)",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -1944,8 +1237,8 @@ export const rajbodyfitnessgymGym: BusinessData = {
   "slug": "raj-body-fitness-gym",
   "name": "Raj Body Fitness Gym",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Raj Body Fitness Gym is a premier fitness center located in Amravati. Rated 4.2\u2605 on Google Maps with over 209 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Raj Body Fitness Gym is located in Amravati (WQ68+74M, Chhatri Talao Rd, Dhanwantari Nagar, Chatrapati Sahu Nagar, Amravati, Maharashtra 444606). Rated 4.2\u2605 on Google Maps with over 209 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "RAJ BODY FITNESS GYM",
   "contact": {
     "phone": "077458 41353",
@@ -1955,7 +1248,7 @@ export const rajbodyfitnessgymGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/raj-body-fitness-gym",
     "googleMaps": "https://www.google.com/maps?cid=6375945304118295109",
     "social": {
       "instagram": "",
@@ -1978,11 +1271,11 @@ export const rajbodyfitnessgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.2\u2605 Google Rating)",
-    "heading": "Transform Your Body at Raj Body Fitness Gym",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.2\u2605 Google Rating)",
+    "heading": "Welcome to Raj Body Fitness Gym",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -1997,174 +1290,73 @@ export const rajbodyfitnessgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Raj Body Fitness Gym in Amravati?",
-    "description": "Located at WQ68+74M, Chhatri Talao Rd, Dhanwantari Nagar, Chatrapati Sahu Nagar, Amravati, Maharashtra 444606, Raj Body Fitness Gym provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Raj Body Fitness Gym",
+    "description": "Located at WQ68+74M, Chhatri Talao Rd, Dhanwantari Nagar, Chatrapati Sahu Nagar, Amravati, Maharashtra 444606, Raj Body Fitness Gym offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.2/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "209+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Raj Body Fitness Gym",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Raj Body Fitness Gym",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Raj Body Fitness Gym Main Floor"
+      "caption": "Raj Body Fitness Gym Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Raj Body Fitness Gym has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Raj Body Fitness Gym 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Raj Body Fitness Gym! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -2188,23 +1380,199 @@ export const rajbodyfitnessgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Raj Body Fitness Gym",
-    "subtitle": "WQ68+74M, Chhatri Talao Rd, Dhanwantari Nagar, Chatrapati Sahu Nagar, Amravati, Maharashtra 444606. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "WQ68+74M, Chhatri Talao Rd, Dhanwantari Nagar, Chatrapati Sahu Nagar, Amravati, Maharashtra 444606. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Raj Body Fitness Gym?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Raj Body Fitness Gym",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
+    "gallery": true,
+    "testimonials": true,
+    "location": true,
+    "cta": true
+  },
+  "demoMode": true,
+  "status": "Live Demo",
+  "createdAt": "2026-08-15T08:00:00Z",
+  "updatedAt": "2026-08-15T08:00:00Z"
+};
+
+export const alhakimhijamaandayurvedicinamravatiGym: BusinessData = {
+  "id": "al-hakim-hijama-and-ayurvedic-in-amravati",
+  "slug": "al-hakim-hijama-and-ayurvedic-in-amravati",
+  "name": "Al Hakim Hijama And Ayurvedic In Amravati",
+  "type": "clinic",
+  "tagline": "Amravati's Trusted Destination for Alternative medicine practitioner",
+  "description": "Al Hakim Hijama And Ayurvedic In Amravati is located in Amravati (Walgaon Rd, near Unique Gym, Jameel Colony, Transport Nagar, Amravati, Maharashtra 444601). Rated 4.9\u2605 on Google Maps with over 198 verified reviews, featuring certified professionals and premium facilities.",
+  "logoText": "AL HAKIM HIJAMA AND AYURVEDIC IN AMRAVATI",
+  "contact": {
+    "phone": "073988 39883",
+    "whatsapp": "",
+    "email": "contact@alhakimhijamaandayurvedicinamravati.com",
+    "address": "Walgaon Rd, near Unique Gym, Jameel Colony, Transport Nagar, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "country": "India",
+    "website": "http://alhakimcare.com/",
+    "googleMaps": "https://www.google.com/maps?cid=13485473800063845923",
+    "social": {
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+  "branding": {
+    "primaryColor": "#EC4899",
+    "secondaryColor": "#110E14",
+    "accentColor": "#F43F5E",
+    "backgroundColor": "#0E0B12",
+    "surfaceColor": "#1C1524",
+    "textColor": "#F5F5F5",
+    "textMutedColor": "#A3A3A3",
+    "headingFont": "'Oswald', sans-serif",
+    "bodyFont": "'Inter', sans-serif",
+    "buttonRadius": "8px",
+    "cardRadius": "12px",
+    "darkMode": true
+  },
+  "hero": {
+    "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
+    "badge": "Verified Amravati Business (4.9\u2605 Google Rating)",
+    "heading": "Welcome to Al Hakim Hijama And Ayurvedic In Amravati",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
+    "align": "left"
+  },
+  "stats": [
+    {
+      "label": "Google Reviews",
+      "value": "198+",
+      "icon": "Star"
+    },
+    {
+      "label": "Average Rating",
+      "value": "4.9\u2605",
+      "icon": "Award"
+    },
+    {
+      "label": "Happy Clients",
+      "value": "500+",
+      "icon": "Users"
+    },
+    {
+      "label": "Expert Team",
+      "value": "8+",
+      "icon": "CheckCircle"
+    }
+  ],
+  "about": {
+    "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
+    "heading": "About Al Hakim Hijama And Ayurvedic In Amravati",
+    "description": "Located at Walgaon Rd, near Unique Gym, Jameel Colony, Transport Nagar, Amravati, Maharashtra 444601, Al Hakim Hijama And Ayurvedic In Amravati offers top-tier services tailored to meet your health and wellness goals in Amravati.",
+    "stats": [
+      {
+        "label": "Client Rating",
+        "value": "4.9/5.0"
+      },
+      {
+        "label": "Verified Reviews",
+        "value": "198+"
+      }
+    ],
+    "cta": "Learn More"
+  },
+  "services": [
+    {
+      "title": "Core Services - Al Hakim Hijama And Ayurvedic In Amravati",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
+      "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
+    },
+    {
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
+      "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "icon": "UserCheck",
+      "cta": "Book Consultation"
+    }
+  ],
+  "team": [
+    {
+      "name": "Lead Specialist - Al Hakim Hijama And Ayurvedic In Amravati",
+      "role": "Chief Expert",
+      "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
+      "experience": "10+ Years"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
+      "category": "Facility",
+      "caption": "Al Hakim Hijama And Ayurvedic In Amravati Facility"
+    },
+    {
+      "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
+      "category": "Services",
+      "caption": "Service Area"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Client",
+      "review": "Excellent experience at Al Hakim Hijama And Ayurvedic In Amravati! Highly recommended in Amravati.",
+      "rating": 5,
+      "isDemo": true
+    }
+  ],
+  "openingHours": [
+    {
+      "day": "Monday \u2013 Friday",
+      "open": "6:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "open": "6:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "Sunday",
+      "open": "7:00 AM",
+      "close": "12:00 PM"
+    }
+  ],
+  "location": {
+    "title": "Visit Al Hakim Hijama And Ayurvedic In Amravati",
+    "subtitle": "Walgaon Rd, near Unique Gym, Jameel Colony, Transport Nagar, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
+  },
+  "cta": {
+    "heading": "Get in Touch with Al Hakim Hijama And Ayurvedic In Amravati",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
+  },
+  "sections": {
+    "hero": true,
+    "stats": true,
+    "about": true,
+    "services": true,
+    "featured": false,
+    "team": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -2221,8 +1589,8 @@ export const talwalkarsgymGym: BusinessData = {
   "slug": "talwalkars-gym",
   "name": "Talwalkars Gym",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Talwalkars Gym is a premier fitness center located in Amravati. Rated 4.1\u2605 on Google Maps with over 183 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Talwalkars Gym is located in Amravati (Next Level Mall, 3rd Floor, SRPF Camp Rd, Maltekdi, Amravati, Maharashtra 444602). Rated 4.1\u2605 on Google Maps with over 183 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "TALWALKARS GYM",
   "contact": {
     "phone": "077984 96666",
@@ -2232,7 +1600,7 @@ export const talwalkarsgymGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/talwalkars-gym",
     "googleMaps": "https://www.google.com/maps?cid=8505300557252709065",
     "social": {
       "instagram": "",
@@ -2255,11 +1623,11 @@ export const talwalkarsgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.1\u2605 Google Rating)",
-    "heading": "Transform Your Body at Talwalkars Gym",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.1\u2605 Google Rating)",
+    "heading": "Welcome to Talwalkars Gym",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -2274,174 +1642,73 @@ export const talwalkarsgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Talwalkars Gym in Amravati?",
-    "description": "Located at Next Level Mall, 3rd Floor, SRPF Camp Rd, Maltekdi, Amravati, Maharashtra 444602, Talwalkars Gym provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Talwalkars Gym",
+    "description": "Located at Next Level Mall, 3rd Floor, SRPF Camp Rd, Maltekdi, Amravati, Maharashtra 444602, Talwalkars Gym offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.1/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "183+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Talwalkars Gym",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Talwalkars Gym",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Talwalkars Gym Main Floor"
+      "caption": "Talwalkars Gym Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Talwalkars Gym has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Talwalkars Gym 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Talwalkars Gym! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -2465,23 +1732,23 @@ export const talwalkarsgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Talwalkars Gym",
-    "subtitle": "Next Level Mall, 3rd Floor, SRPF Camp Rd, Maltekdi, Amravati, Maharashtra 444602. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Next Level Mall, 3rd Floor, SRPF Camp Rd, Maltekdi, Amravati, Maharashtra 444602. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Talwalkars Gym?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Talwalkars Gym",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -2498,8 +1765,8 @@ export const gravityfitnessclubGym: BusinessData = {
   "slug": "gravity-fitness-club",
   "name": "GRAVITY FITNESS CLUB",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "GRAVITY FITNESS CLUB is a premier fitness center located in Amravati. Rated 5.0\u2605 on Google Maps with over 183 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "GRAVITY FITNESS CLUB is located in Amravati (F7F9+PP4, Warud, Maharashtra 444906). Rated 5.0\u2605 on Google Maps with over 183 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "GRAVITY FITNESS CLUB",
   "contact": {
     "phone": "095038 88206",
@@ -2509,7 +1776,7 @@ export const gravityfitnessclubGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/gravity-fitness-club",
     "googleMaps": "https://www.google.com/maps?cid=8567992481749420903",
     "social": {
       "instagram": "",
@@ -2532,11 +1799,11 @@ export const gravityfitnessclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (5.0\u2605 Google Rating)",
-    "heading": "Transform Your Body at GRAVITY FITNESS CLUB",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (5.0\u2605 Google Rating)",
+    "heading": "Welcome to GRAVITY FITNESS CLUB",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -2551,174 +1818,73 @@ export const gravityfitnessclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose GRAVITY FITNESS CLUB in Amravati?",
-    "description": "Located at F7F9+PP4, Warud, Maharashtra 444906, GRAVITY FITNESS CLUB provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About GRAVITY FITNESS CLUB",
+    "description": "Located at F7F9+PP4, Warud, Maharashtra 444906, GRAVITY FITNESS CLUB offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "5.0/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "183+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - GRAVITY FITNESS CLUB",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - GRAVITY FITNESS CLUB",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "GRAVITY FITNESS CLUB Main Floor"
+      "caption": "GRAVITY FITNESS CLUB Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! GRAVITY FITNESS CLUB has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined GRAVITY FITNESS CLUB 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at GRAVITY FITNESS CLUB! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -2742,23 +1908,23 @@ export const gravityfitnessclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit GRAVITY FITNESS CLUB",
-    "subtitle": "F7F9+PP4, Warud, Maharashtra 444906. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "F7F9+PP4, Warud, Maharashtra 444906. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at GRAVITY FITNESS CLUB?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with GRAVITY FITNESS CLUB",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -2775,8 +1941,8 @@ export const goldsgymamravatiGym: BusinessData = {
   "slug": "golds-gym-amravati",
   "name": "Gold's Gym Amravati",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Gold's Gym Amravati is a premier fitness center located in Amravati. Rated 4.1\u2605 on Google Maps with over 169 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Gold's Gym Amravati is located in Amravati (Shankar Nagar Rd, near cancer hospital, Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607). Rated 4.1\u2605 on Google Maps with over 169 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "GOLD'S GYM AMRAVATI",
   "contact": {
     "phone": "080808 79511",
@@ -2809,11 +1975,11 @@ export const goldsgymamravatiGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.1\u2605 Google Rating)",
-    "heading": "Transform Your Body at Gold's Gym Amravati",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.1\u2605 Google Rating)",
+    "heading": "Welcome to Gold's Gym Amravati",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -2828,174 +1994,73 @@ export const goldsgymamravatiGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Gold's Gym Amravati in Amravati?",
-    "description": "Located at Shankar Nagar Rd, near cancer hospital, Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607, Gold's Gym Amravati provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Gold's Gym Amravati",
+    "description": "Located at Shankar Nagar Rd, near cancer hospital, Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607, Gold's Gym Amravati offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.1/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "169+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Gold's Gym Amravati",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Gold's Gym Amravati",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Gold's Gym Amravati Main Floor"
+      "caption": "Gold's Gym Amravati Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Gold's Gym Amravati has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Gold's Gym Amravati 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Gold's Gym Amravati! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -3019,23 +2084,199 @@ export const goldsgymamravatiGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Gold's Gym Amravati",
-    "subtitle": "Shankar Nagar Rd, near cancer hospital, Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Shankar Nagar Rd, near cancer hospital, Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Gold's Gym Amravati?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Gold's Gym Amravati",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
+    "gallery": true,
+    "testimonials": true,
+    "location": true,
+    "cta": true
+  },
+  "demoMode": true,
+  "status": "Live Demo",
+  "createdAt": "2026-08-15T08:00:00Z",
+  "updatedAt": "2026-08-15T08:00:00Z"
+};
+
+export const citypoolGym: BusinessData = {
+  "id": "citypool",
+  "slug": "citypool",
+  "name": "CityPool",
+  "type": "gym",
+  "tagline": "Amravati's Trusted Destination for Swimming pool",
+  "description": "CityPool is located in Amravati (CityPool, Mangaldham Colony, Dastur Nagar, Amravati, Maharashtra 444606). Rated 4.3\u2605 on Google Maps with over 169 verified reviews, featuring certified professionals and premium facilities.",
+  "logoText": "CITYPOOL",
+  "contact": {
+    "phone": "060068 20068",
+    "whatsapp": "",
+    "email": "contact@citypool.com",
+    "address": "CityPool, Mangaldham Colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "country": "India",
+    "website": "http://www.citypool.in/",
+    "googleMaps": "https://www.google.com/maps?cid=17093745118530954538",
+    "social": {
+      "instagram": "",
+      "facebook": ""
+    }
+  },
+  "branding": {
+    "primaryColor": "#10B981",
+    "secondaryColor": "#022C22",
+    "accentColor": "#34D399",
+    "backgroundColor": "#041410",
+    "surfaceColor": "#0A241C",
+    "textColor": "#F5F5F5",
+    "textMutedColor": "#A3A3A3",
+    "headingFont": "'Oswald', sans-serif",
+    "bodyFont": "'Inter', sans-serif",
+    "buttonRadius": "8px",
+    "cardRadius": "12px",
+    "darkMode": true
+  },
+  "hero": {
+    "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
+    "badge": "Verified Amravati Business (4.3\u2605 Google Rating)",
+    "heading": "Welcome to CityPool",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
+    "align": "left"
+  },
+  "stats": [
+    {
+      "label": "Google Reviews",
+      "value": "169+",
+      "icon": "Star"
+    },
+    {
+      "label": "Average Rating",
+      "value": "4.3\u2605",
+      "icon": "Award"
+    },
+    {
+      "label": "Happy Clients",
+      "value": "500+",
+      "icon": "Users"
+    },
+    {
+      "label": "Expert Team",
+      "value": "8+",
+      "icon": "CheckCircle"
+    }
+  ],
+  "about": {
+    "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
+    "heading": "About CityPool",
+    "description": "Located at CityPool, Mangaldham Colony, Dastur Nagar, Amravati, Maharashtra 444606, CityPool offers top-tier services tailored to meet your health and wellness goals in Amravati.",
+    "stats": [
+      {
+        "label": "Client Rating",
+        "value": "4.3/5.0"
+      },
+      {
+        "label": "Verified Reviews",
+        "value": "169+"
+      }
+    ],
+    "cta": "Learn More"
+  },
+  "services": [
+    {
+      "title": "Core Services - CityPool",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
+      "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
+    },
+    {
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
+      "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "icon": "UserCheck",
+      "cta": "Book Consultation"
+    }
+  ],
+  "team": [
+    {
+      "name": "Lead Specialist - CityPool",
+      "role": "Chief Expert",
+      "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
+      "experience": "10+ Years"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
+      "category": "Facility",
+      "caption": "CityPool Facility"
+    },
+    {
+      "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
+      "category": "Services",
+      "caption": "Service Area"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Client",
+      "review": "Excellent experience at CityPool! Highly recommended in Amravati.",
+      "rating": 5,
+      "isDemo": true
+    }
+  ],
+  "openingHours": [
+    {
+      "day": "Monday \u2013 Friday",
+      "open": "6:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "open": "6:00 AM",
+      "close": "10:00 PM"
+    },
+    {
+      "day": "Sunday",
+      "open": "7:00 AM",
+      "close": "12:00 PM"
+    }
+  ],
+  "location": {
+    "title": "Visit CityPool",
+    "subtitle": "CityPool, Mangaldham Colony, Dastur Nagar, Amravati, Maharashtra 444606. Contact us directly via phone or WhatsApp.",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
+  },
+  "cta": {
+    "heading": "Get in Touch with CityPool",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
+  },
+  "sections": {
+    "hero": true,
+    "stats": true,
+    "about": true,
+    "services": true,
+    "featured": false,
+    "team": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -3052,8 +2293,8 @@ export const spartathegymGym: BusinessData = {
   "slug": "sparta-the-gym",
   "name": "SPARTA THE GYM",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "SPARTA THE GYM is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 161 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "SPARTA THE GYM is located in Amravati (near, Biyani College, KK Commercial, Kusumba Vihar, Amravati, Maharashtra 444605). Rated 4.5\u2605 on Google Maps with over 161 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "SPARTA THE GYM",
   "contact": {
     "phone": "099225 27348",
@@ -3086,11 +2327,11 @@ export const spartathegymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at SPARTA THE GYM",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to SPARTA THE GYM",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -3105,174 +2346,73 @@ export const spartathegymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose SPARTA THE GYM in Amravati?",
-    "description": "Located at near, Biyani College, KK Commercial, Kusumba Vihar, Amravati, Maharashtra 444605, SPARTA THE GYM provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About SPARTA THE GYM",
+    "description": "Located at near, Biyani College, KK Commercial, Kusumba Vihar, Amravati, Maharashtra 444605, SPARTA THE GYM offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "161+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - SPARTA THE GYM",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - SPARTA THE GYM",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "SPARTA THE GYM Main Floor"
+      "caption": "SPARTA THE GYM Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! SPARTA THE GYM has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined SPARTA THE GYM 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at SPARTA THE GYM! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -3296,23 +2436,23 @@ export const spartathegymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit SPARTA THE GYM",
-    "subtitle": "near, Biyani College, KK Commercial, Kusumba Vihar, Amravati, Maharashtra 444605. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "near, Biyani College, KK Commercial, Kusumba Vihar, Amravati, Maharashtra 444605. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at SPARTA THE GYM?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with SPARTA THE GYM",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -3329,8 +2469,8 @@ export const thakursportsGym: BusinessData = {
   "slug": "thakur-sports",
   "name": "Thakur Sports",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Thakur Sports is a premier fitness center located in Amravati. Rated 4.4\u2605 on Google Maps with over 154 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Sporting goods store",
+  "description": "Thakur Sports is located in Amravati (Akshay Rajgure Rd, Amravati, Maharashtra 444601). Rated 4.4\u2605 on Google Maps with over 154 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "THAKUR SPORTS",
   "contact": {
     "phone": "097656 78337",
@@ -3340,7 +2480,7 @@ export const thakursportsGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/thakur-sports",
     "googleMaps": "https://www.google.com/maps?cid=5640978900255040991",
     "social": {
       "instagram": "",
@@ -3363,11 +2503,11 @@ export const thakursportsGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.4\u2605 Google Rating)",
-    "heading": "Transform Your Body at Thakur Sports",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.4\u2605 Google Rating)",
+    "heading": "Welcome to Thakur Sports",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -3382,174 +2522,73 @@ export const thakursportsGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Thakur Sports in Amravati?",
-    "description": "Located at Akshay Rajgure Rd, Amravati, Maharashtra 444601, Thakur Sports provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Thakur Sports",
+    "description": "Located at Akshay Rajgure Rd, Amravati, Maharashtra 444601, Thakur Sports offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.4/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "154+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Thakur Sports",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Thakur Sports",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Thakur Sports Main Floor"
+      "caption": "Thakur Sports Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Thakur Sports has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Thakur Sports 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Thakur Sports! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -3573,23 +2612,23 @@ export const thakursportsGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Thakur Sports",
-    "subtitle": "Akshay Rajgure Rd, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Akshay Rajgure Rd, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Thakur Sports?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Thakur Sports",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -3606,8 +2645,8 @@ export const psdfitnessclubgymGym: BusinessData = {
   "slug": "psd-fitness-club-gym",
   "name": "PSD Fitness Club GYM",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "PSD Fitness Club GYM is a premier fitness center located in Amravati. Rated 4.9\u2605 on Google Maps with over 146 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "PSD Fitness Club GYM is located in Amravati (Maa Jijau colony, Arjun Nagar, Maharashtra 444603). Rated 4.9\u2605 on Google Maps with over 146 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "PSD FITNESS CLUB GYM",
   "contact": {
     "phone": "090225 23823",
@@ -3617,7 +2656,7 @@ export const psdfitnessclubgymGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/psd-fitness-club-gym",
     "googleMaps": "https://www.google.com/maps?cid=10175275234430099106",
     "social": {
       "instagram": "",
@@ -3640,11 +2679,11 @@ export const psdfitnessclubgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.9\u2605 Google Rating)",
-    "heading": "Transform Your Body at PSD Fitness Club GYM",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.9\u2605 Google Rating)",
+    "heading": "Welcome to PSD Fitness Club GYM",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -3659,174 +2698,73 @@ export const psdfitnessclubgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose PSD Fitness Club GYM in Amravati?",
-    "description": "Located at Maa Jijau colony, Arjun Nagar, Maharashtra 444603, PSD Fitness Club GYM provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About PSD Fitness Club GYM",
+    "description": "Located at Maa Jijau colony, Arjun Nagar, Maharashtra 444603, PSD Fitness Club GYM offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.9/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "146+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - PSD Fitness Club GYM",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - PSD Fitness Club GYM",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "PSD Fitness Club GYM Main Floor"
+      "caption": "PSD Fitness Club GYM Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! PSD Fitness Club GYM has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined PSD Fitness Club GYM 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at PSD Fitness Club GYM! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -3850,23 +2788,23 @@ export const psdfitnessclubgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit PSD Fitness Club GYM",
-    "subtitle": "Maa Jijau colony, Arjun Nagar, Maharashtra 444603. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Maa Jijau colony, Arjun Nagar, Maharashtra 444603. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at PSD Fitness Club GYM?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with PSD Fitness Club GYM",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -3883,8 +2821,8 @@ export const fitnessexpressGym: BusinessData = {
   "slug": "fitness-express",
   "name": "Fitness Express",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Fitness Express is a premier fitness center located in Amravati. Rated 4.8\u2605 on Google Maps with over 134 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Fitness Express is located in Amravati (Guruchhaya, Rajkamal, nr. Baheti Hospital, Amba Peth, Amravati, Maharashtra 444601). Rated 4.8\u2605 on Google Maps with over 134 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "FITNESS EXPRESS",
   "contact": {
     "phone": "078758 67002",
@@ -3894,7 +2832,7 @@ export const fitnessexpressGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/fitness-express",
     "googleMaps": "https://www.google.com/maps?cid=16723415122130514738",
     "social": {
       "instagram": "",
@@ -3917,11 +2855,11 @@ export const fitnessexpressGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.8\u2605 Google Rating)",
-    "heading": "Transform Your Body at Fitness Express",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.8\u2605 Google Rating)",
+    "heading": "Welcome to Fitness Express",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -3936,174 +2874,73 @@ export const fitnessexpressGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Fitness Express in Amravati?",
-    "description": "Located at Guruchhaya, Rajkamal, nr. Baheti Hospital, Amba Peth, Amravati, Maharashtra 444601, Fitness Express provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Fitness Express",
+    "description": "Located at Guruchhaya, Rajkamal, nr. Baheti Hospital, Amba Peth, Amravati, Maharashtra 444601, Fitness Express offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.8/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "134+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Fitness Express",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Fitness Express",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Fitness Express Main Floor"
+      "caption": "Fitness Express Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Fitness Express has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Fitness Express 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Fitness Express! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -4127,23 +2964,23 @@ export const fitnessexpressGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Fitness Express",
-    "subtitle": "Guruchhaya, Rajkamal, nr. Baheti Hospital, Amba Peth, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Guruchhaya, Rajkamal, nr. Baheti Hospital, Amba Peth, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Fitness Express?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Fitness Express",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -4160,8 +2997,8 @@ export const corpusfitnessclubGym: BusinessData = {
   "slug": "corpus-fitness-club",
   "name": "CORPUS FITNESS CLUB",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "CORPUS FITNESS CLUB is a premier fitness center located in Amravati. Rated 4.7\u2605 on Google Maps with over 124 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "CORPUS FITNESS CLUB is located in Amravati (3rd floor,Above State Bank of India,Harshraj colony-vidyut nagar sq, VMV Rd, Amravati, Maharashtra 444604). Rated 4.7\u2605 on Google Maps with over 124 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "CORPUS FITNESS CLUB",
   "contact": {
     "phone": "076206 83995",
@@ -4171,7 +3008,7 @@ export const corpusfitnessclubGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/corpus-fitness-club",
     "googleMaps": "https://www.google.com/maps?cid=2205979593704482649",
     "social": {
       "instagram": "",
@@ -4194,11 +3031,11 @@ export const corpusfitnessclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.7\u2605 Google Rating)",
-    "heading": "Transform Your Body at CORPUS FITNESS CLUB",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.7\u2605 Google Rating)",
+    "heading": "Welcome to CORPUS FITNESS CLUB",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -4213,174 +3050,73 @@ export const corpusfitnessclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose CORPUS FITNESS CLUB in Amravati?",
-    "description": "Located at 3rd floor,Above State Bank of India,Harshraj colony-vidyut nagar sq, VMV Rd, Amravati, Maharashtra 444604, CORPUS FITNESS CLUB provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About CORPUS FITNESS CLUB",
+    "description": "Located at 3rd floor,Above State Bank of India,Harshraj colony-vidyut nagar sq, VMV Rd, Amravati, Maharashtra 444604, CORPUS FITNESS CLUB offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.7/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "124+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - CORPUS FITNESS CLUB",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - CORPUS FITNESS CLUB",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "CORPUS FITNESS CLUB Main Floor"
+      "caption": "CORPUS FITNESS CLUB Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! CORPUS FITNESS CLUB has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined CORPUS FITNESS CLUB 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at CORPUS FITNESS CLUB! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -4404,23 +3140,23 @@ export const corpusfitnessclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit CORPUS FITNESS CLUB",
-    "subtitle": "3rd floor,Above State Bank of India,Harshraj colony-vidyut nagar sq, VMV Rd, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "3rd floor,Above State Bank of India,Harshraj colony-vidyut nagar sq, VMV Rd, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at CORPUS FITNESS CLUB?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with CORPUS FITNESS CLUB",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -4437,8 +3173,8 @@ export const nutritionworldbestwellnesscentreinamravatibestnutritionistamravatib
   "slug": "nutrition-world-best-wellness-centre-in-amravati-best-nutritionist-amravati-best-supplementary-product-dealer-amravati",
   "name": "Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati is a premier fitness center located in Amravati. Rated 4.4\u2605 on Google Maps with over 123 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Weight loss service",
+  "description": "Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati is located in Amravati (Silver Crest Complex, Shilangan road, Shilang an road, opposite Shivaji Market, near brijlal biyani collage, Amravati, Maharashtra 444605). Rated 4.4\u2605 on Google Maps with over 123 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "NUTRITION WORLD | BEST WELLNESS CENTRE IN AMRAVATI | BEST NUTRITIONIST AMRAVATI | BEST SUPPLEMENTARY PRODUCT DEALER AMRAVATI",
   "contact": {
     "phone": "075887 77500",
@@ -4471,11 +3207,11 @@ export const nutritionworldbestwellnesscentreinamravatibestnutritionistamravatib
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.4\u2605 Google Rating)",
-    "heading": "Transform Your Body at Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.4\u2605 Google Rating)",
+    "heading": "Welcome to Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -4490,174 +3226,73 @@ export const nutritionworldbestwellnesscentreinamravatibestnutritionistamravatib
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati in Amravati?",
-    "description": "Located at Silver Crest Complex, Shilangan road, Shilang an road, opposite Shivaji Market, near brijlal biyani collage, Amravati, Maharashtra 444605, Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
+    "description": "Located at Silver Crest Complex, Shilangan road, Shilang an road, opposite Shivaji Market, near brijlal biyani collage, Amravati, Maharashtra 444605, Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.4/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "123+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati Main Floor"
+      "caption": "Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -4681,23 +3316,23 @@ export const nutritionworldbestwellnesscentreinamravatibestnutritionistamravatib
   ],
   "location": {
     "title": "Visit Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
-    "subtitle": "Silver Crest Complex, Shilangan road, Shilang an road, opposite Shivaji Market, near brijlal biyani collage, Amravati, Maharashtra 444605. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Silver Crest Complex, Shilangan road, Shilang an road, opposite Shivaji Market, near brijlal biyani collage, Amravati, Maharashtra 444605. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Nutrition World | Best Wellness Centre In Amravati | Best Nutritionist Amravati | Best supplementary Product Dealer Amravati",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -4714,8 +3349,8 @@ export const elitefitnesshubGym: BusinessData = {
   "slug": "elite-fitness-hub",
   "name": "Elite Fitness Hub",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Elite Fitness Hub is a premier fitness center located in Amravati. Rated 4.4\u2605 on Google Maps with over 119 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Elite Fitness Hub is located in Amravati (Mauli Complex, Dinkar Plaza, Opposite YCM open University Campus, Walgaon Road, Navsaari, Amravati, Maharashtra 444604). Rated 4.4\u2605 on Google Maps with over 119 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "ELITE FITNESS HUB",
   "contact": {
     "phone": "099219 26955",
@@ -4725,7 +3360,7 @@ export const elitefitnesshubGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/elite-fitness-hub",
     "googleMaps": "https://www.google.com/maps?cid=6431758376054092932",
     "social": {
       "instagram": "",
@@ -4748,11 +3383,11 @@ export const elitefitnesshubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.4\u2605 Google Rating)",
-    "heading": "Transform Your Body at Elite Fitness Hub",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.4\u2605 Google Rating)",
+    "heading": "Welcome to Elite Fitness Hub",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -4767,174 +3402,73 @@ export const elitefitnesshubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Elite Fitness Hub in Amravati?",
-    "description": "Located at Mauli Complex, Dinkar Plaza, Opposite YCM open University Campus, Walgaon Road, Navsaari, Amravati, Maharashtra 444604, Elite Fitness Hub provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Elite Fitness Hub",
+    "description": "Located at Mauli Complex, Dinkar Plaza, Opposite YCM open University Campus, Walgaon Road, Navsaari, Amravati, Maharashtra 444604, Elite Fitness Hub offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.4/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "119+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Elite Fitness Hub",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Elite Fitness Hub",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Elite Fitness Hub Main Floor"
+      "caption": "Elite Fitness Hub Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Elite Fitness Hub has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Elite Fitness Hub 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Elite Fitness Hub! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -4958,23 +3492,23 @@ export const elitefitnesshubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Elite Fitness Hub",
-    "subtitle": "Mauli Complex, Dinkar Plaza, Opposite YCM open University Campus, Walgaon Road, Navsaari, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Mauli Complex, Dinkar Plaza, Opposite YCM open University Campus, Walgaon Road, Navsaari, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Elite Fitness Hub?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Elite Fitness Hub",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -4991,8 +3525,8 @@ export const strengthfactoryGym: BusinessData = {
   "slug": "strength-factory",
   "name": "Strength Factory",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Strength Factory is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 112 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Strength Factory is located in Amravati (Mahalaxmi Appartment-1, VMV Rd, Subodh Colony, Saurabh Colony, Amravati, Maharashtra 444604). Rated 4.5\u2605 on Google Maps with over 112 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "STRENGTH FACTORY",
   "contact": {
     "phone": "062901 26875",
@@ -5025,11 +3559,11 @@ export const strengthfactoryGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at Strength Factory",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to Strength Factory",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -5044,174 +3578,73 @@ export const strengthfactoryGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Strength Factory in Amravati?",
-    "description": "Located at Mahalaxmi Appartment-1, VMV Rd, Subodh Colony, Saurabh Colony, Amravati, Maharashtra 444604, Strength Factory provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Strength Factory",
+    "description": "Located at Mahalaxmi Appartment-1, VMV Rd, Subodh Colony, Saurabh Colony, Amravati, Maharashtra 444604, Strength Factory offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "112+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Strength Factory",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Strength Factory",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Strength Factory Main Floor"
+      "caption": "Strength Factory Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Strength Factory has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Strength Factory 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Strength Factory! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -5235,23 +3668,23 @@ export const strengthfactoryGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Strength Factory",
-    "subtitle": "Mahalaxmi Appartment-1, VMV Rd, Subodh Colony, Saurabh Colony, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Mahalaxmi Appartment-1, VMV Rd, Subodh Colony, Saurabh Colony, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Strength Factory?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Strength Factory",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -5268,8 +3701,8 @@ export const wellbeingfitnessgymGym: BusinessData = {
   "slug": "well-being-fitness-gym",
   "name": "WELL BEING FITNESS GYM",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "WELL BEING FITNESS GYM is a premier fitness center located in Amravati. Rated 4.7\u2605 on Google Maps with over 103 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "WELL BEING FITNESS GYM is located in Amravati (Jijau Nagar, Kathora Rd, behind Hirwal Point Lawn, Amravati, Maharashtra 444604). Rated 4.7\u2605 on Google Maps with over 103 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "WELL BEING FITNESS GYM",
   "contact": {
     "phone": "090962 57575",
@@ -5279,7 +3712,7 @@ export const wellbeingfitnessgymGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/well-being-fitness-gym",
     "googleMaps": "https://www.google.com/maps?cid=538030507600081736",
     "social": {
       "instagram": "",
@@ -5302,11 +3735,11 @@ export const wellbeingfitnessgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.7\u2605 Google Rating)",
-    "heading": "Transform Your Body at WELL BEING FITNESS GYM",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.7\u2605 Google Rating)",
+    "heading": "Welcome to WELL BEING FITNESS GYM",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -5321,174 +3754,73 @@ export const wellbeingfitnessgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose WELL BEING FITNESS GYM in Amravati?",
-    "description": "Located at Jijau Nagar, Kathora Rd, behind Hirwal Point Lawn, Amravati, Maharashtra 444604, WELL BEING FITNESS GYM provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About WELL BEING FITNESS GYM",
+    "description": "Located at Jijau Nagar, Kathora Rd, behind Hirwal Point Lawn, Amravati, Maharashtra 444604, WELL BEING FITNESS GYM offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.7/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "103+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - WELL BEING FITNESS GYM",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - WELL BEING FITNESS GYM",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "WELL BEING FITNESS GYM Main Floor"
+      "caption": "WELL BEING FITNESS GYM Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! WELL BEING FITNESS GYM has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined WELL BEING FITNESS GYM 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at WELL BEING FITNESS GYM! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -5512,23 +3844,23 @@ export const wellbeingfitnessgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit WELL BEING FITNESS GYM",
-    "subtitle": "Jijau Nagar, Kathora Rd, behind Hirwal Point Lawn, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Jijau Nagar, Kathora Rd, behind Hirwal Point Lawn, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at WELL BEING FITNESS GYM?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with WELL BEING FITNESS GYM",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -5545,8 +3877,8 @@ export const lifefitnessGym: BusinessData = {
   "slug": "life-fitness",
   "name": "Life Fitness",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Life Fitness is a premier fitness center located in Amravati. Rated 4.3\u2605 on Google Maps with over 101 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Life Fitness is located in Amravati (HP Petrol Pump, Near, 3rd Floor, Samruddhhi Arcade, Rukmini Nagar, Amravati, Maharashtra 444606). Rated 4.3\u2605 on Google Maps with over 101 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "LIFE FITNESS",
   "contact": {
     "phone": "072125 65757",
@@ -5556,7 +3888,7 @@ export const lifefitnessGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/life-fitness",
     "googleMaps": "https://www.google.com/maps?cid=847609381319960681",
     "social": {
       "instagram": "",
@@ -5579,11 +3911,11 @@ export const lifefitnessGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.3\u2605 Google Rating)",
-    "heading": "Transform Your Body at Life Fitness",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.3\u2605 Google Rating)",
+    "heading": "Welcome to Life Fitness",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -5598,174 +3930,73 @@ export const lifefitnessGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Life Fitness in Amravati?",
-    "description": "Located at HP Petrol Pump, Near, 3rd Floor, Samruddhhi Arcade, Rukmini Nagar, Amravati, Maharashtra 444606, Life Fitness provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Life Fitness",
+    "description": "Located at HP Petrol Pump, Near, 3rd Floor, Samruddhhi Arcade, Rukmini Nagar, Amravati, Maharashtra 444606, Life Fitness offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.3/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "101+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Life Fitness",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Life Fitness",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Life Fitness Main Floor"
+      "caption": "Life Fitness Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Life Fitness has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Life Fitness 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Life Fitness! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -5789,23 +4020,23 @@ export const lifefitnessGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Life Fitness",
-    "subtitle": "HP Petrol Pump, Near, 3rd Floor, Samruddhhi Arcade, Rukmini Nagar, Amravati, Maharashtra 444606. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "HP Petrol Pump, Near, 3rd Floor, Samruddhhi Arcade, Rukmini Nagar, Amravati, Maharashtra 444606. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Life Fitness?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Life Fitness",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -5822,8 +4053,8 @@ export const bodyfactoryfitnesswellnessclubpanchavatisquaresquareGym: BusinessDa
   "slug": "body-factory-fitness-wellness-club-panchavati-square-square",
   "name": "Body Factory fitness & wellness club , Panchavati Square square",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Body Factory fitness & wellness club , Panchavati Square square is a premier fitness center located in Amravati. Rated 4.1\u2605 on Google Maps with over 100 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Body Factory fitness & wellness club , Panchavati Square square is located in Amravati (Panchavati square, Gadge Nagar, Amravati, Maharashtra 444603). Rated 4.1\u2605 on Google Maps with over 100 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "BODY FACTORY FITNESS & WELLNESS CLUB , PANCHAVATI SQUARE SQUARE",
   "contact": {
     "phone": "084858 80258",
@@ -5833,7 +4064,7 @@ export const bodyfactoryfitnesswellnessclubpanchavatisquaresquareGym: BusinessDa
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/body-factory-fitness-wellness-club-panchavati-square-square",
     "googleMaps": "https://www.google.com/maps?cid=8528865307443643291",
     "social": {
       "instagram": "",
@@ -5856,11 +4087,11 @@ export const bodyfactoryfitnesswellnessclubpanchavatisquaresquareGym: BusinessDa
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.1\u2605 Google Rating)",
-    "heading": "Transform Your Body at Body Factory fitness & wellness club , Panchavati Square square",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.1\u2605 Google Rating)",
+    "heading": "Welcome to Body Factory fitness & wellness club , Panchavati Square square",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -5875,174 +4106,73 @@ export const bodyfactoryfitnesswellnessclubpanchavatisquaresquareGym: BusinessDa
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Body Factory fitness & wellness club , Panchavati Square square in Amravati?",
-    "description": "Located at Panchavati square, Gadge Nagar, Amravati, Maharashtra 444603, Body Factory fitness & wellness club , Panchavati Square square provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Body Factory fitness & wellness club , Panchavati Square square",
+    "description": "Located at Panchavati square, Gadge Nagar, Amravati, Maharashtra 444603, Body Factory fitness & wellness club , Panchavati Square square offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.1/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "100+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Body Factory fitness & wellness club , Panchavati Square square",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Body Factory fitness & wellness club , Panchavati Square square",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Body Factory fitness & wellness club , Panchavati Square square Main Floor"
+      "caption": "Body Factory fitness & wellness club , Panchavati Square square Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Body Factory fitness & wellness club , Panchavati Square square has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Body Factory fitness & wellness club , Panchavati Square square 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Body Factory fitness & wellness club , Panchavati Square square! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -6066,23 +4196,23 @@ export const bodyfactoryfitnesswellnessclubpanchavatisquaresquareGym: BusinessDa
   ],
   "location": {
     "title": "Visit Body Factory fitness & wellness club , Panchavati Square square",
-    "subtitle": "Panchavati square, Gadge Nagar, Amravati, Maharashtra 444603. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Panchavati square, Gadge Nagar, Amravati, Maharashtra 444603. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Body Factory fitness & wellness club , Panchavati Square square?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Body Factory fitness & wellness club , Panchavati Square square",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -6099,8 +4229,8 @@ export const utopiafitnessgarrageGym: BusinessData = {
   "slug": "utopia-fitness-garrage",
   "name": "UTOPIA FITNESS GARRAGE",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "UTOPIA FITNESS GARRAGE is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 96 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "UTOPIA FITNESS GARRAGE is located in Amravati (Shilpkala colony, Shegaon - Rahatgaon Rd, Amravati, Maharashtra 444604). Rated 4.5\u2605 on Google Maps with over 96 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "UTOPIA FITNESS GARRAGE",
   "contact": {
     "phone": "091752 70853",
@@ -6110,7 +4240,7 @@ export const utopiafitnessgarrageGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/utopia-fitness-garrage",
     "googleMaps": "https://www.google.com/maps?cid=17659155792200521768",
     "social": {
       "instagram": "",
@@ -6133,11 +4263,11 @@ export const utopiafitnessgarrageGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at UTOPIA FITNESS GARRAGE",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to UTOPIA FITNESS GARRAGE",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -6152,174 +4282,73 @@ export const utopiafitnessgarrageGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose UTOPIA FITNESS GARRAGE in Amravati?",
-    "description": "Located at Shilpkala colony, Shegaon - Rahatgaon Rd, Amravati, Maharashtra 444604, UTOPIA FITNESS GARRAGE provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About UTOPIA FITNESS GARRAGE",
+    "description": "Located at Shilpkala colony, Shegaon - Rahatgaon Rd, Amravati, Maharashtra 444604, UTOPIA FITNESS GARRAGE offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "96+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - UTOPIA FITNESS GARRAGE",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - UTOPIA FITNESS GARRAGE",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "UTOPIA FITNESS GARRAGE Main Floor"
+      "caption": "UTOPIA FITNESS GARRAGE Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! UTOPIA FITNESS GARRAGE has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined UTOPIA FITNESS GARRAGE 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at UTOPIA FITNESS GARRAGE! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -6343,23 +4372,23 @@ export const utopiafitnessgarrageGym: BusinessData = {
   ],
   "location": {
     "title": "Visit UTOPIA FITNESS GARRAGE",
-    "subtitle": "Shilpkala colony, Shegaon - Rahatgaon Rd, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Shilpkala colony, Shegaon - Rahatgaon Rd, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at UTOPIA FITNESS GARRAGE?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with UTOPIA FITNESS GARRAGE",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -6376,8 +4405,8 @@ export const oasisfitnessclubGym: BusinessData = {
   "slug": "oasis-fitness-club",
   "name": "Oasis Fitness Club",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Oasis Fitness Club is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 95 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Oasis Fitness Club is located in Amravati (41- Balaji Nagar , 2nd Floor, P.R, Pote college road, above Orchid bakery, Amravati, Maharashtra 444604). Rated 4.5\u2605 on Google Maps with over 95 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "OASIS FITNESS CLUB",
   "contact": {
     "phone": "084590 74746",
@@ -6387,7 +4416,7 @@ export const oasisfitnessclubGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/oasis-fitness-club",
     "googleMaps": "https://www.google.com/maps?cid=18419649359099192406",
     "social": {
       "instagram": "",
@@ -6410,11 +4439,11 @@ export const oasisfitnessclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at Oasis Fitness Club",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to Oasis Fitness Club",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -6429,174 +4458,73 @@ export const oasisfitnessclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Oasis Fitness Club in Amravati?",
-    "description": "Located at 41- Balaji Nagar , 2nd Floor, P.R, Pote college road, above Orchid bakery, Amravati, Maharashtra 444604, Oasis Fitness Club provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Oasis Fitness Club",
+    "description": "Located at 41- Balaji Nagar , 2nd Floor, P.R, Pote college road, above Orchid bakery, Amravati, Maharashtra 444604, Oasis Fitness Club offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "95+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Oasis Fitness Club",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Oasis Fitness Club",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Oasis Fitness Club Main Floor"
+      "caption": "Oasis Fitness Club Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Oasis Fitness Club has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Oasis Fitness Club 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Oasis Fitness Club! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -6620,23 +4548,23 @@ export const oasisfitnessclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Oasis Fitness Club",
-    "subtitle": "41- Balaji Nagar , 2nd Floor, P.R, Pote college road, above Orchid bakery, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "41- Balaji Nagar , 2nd Floor, P.R, Pote college road, above Orchid bakery, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Oasis Fitness Club?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Oasis Fitness Club",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -6653,8 +4581,8 @@ export const mh27fitnesswellnessclubGym: BusinessData = {
   "slug": "mh27-fitness-wellness-club",
   "name": "MH27 FITNESS & WELLNESS CLUB",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "MH27 FITNESS & WELLNESS CLUB is a premier fitness center located in Amravati. Rated 4.9\u2605 on Google Maps with over 85 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "MH27 FITNESS & WELLNESS CLUB is located in Amravati (Lane No. 3, Vilas Nagar, Hazrat Bilal Nagar, Amravati, Maharashtra 444601). Rated 4.9\u2605 on Google Maps with over 85 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "MH27 FITNESS & WELLNESS CLUB",
   "contact": {
     "phone": "086982 01056",
@@ -6664,7 +4592,7 @@ export const mh27fitnesswellnessclubGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/mh27-fitness-wellness-club",
     "googleMaps": "https://www.google.com/maps?cid=14742334607730777180",
     "social": {
       "instagram": "",
@@ -6687,11 +4615,11 @@ export const mh27fitnesswellnessclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.9\u2605 Google Rating)",
-    "heading": "Transform Your Body at MH27 FITNESS & WELLNESS CLUB",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.9\u2605 Google Rating)",
+    "heading": "Welcome to MH27 FITNESS & WELLNESS CLUB",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -6706,174 +4634,73 @@ export const mh27fitnesswellnessclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose MH27 FITNESS & WELLNESS CLUB in Amravati?",
-    "description": "Located at Lane No. 3, Vilas Nagar, Hazrat Bilal Nagar, Amravati, Maharashtra 444601, MH27 FITNESS & WELLNESS CLUB provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About MH27 FITNESS & WELLNESS CLUB",
+    "description": "Located at Lane No. 3, Vilas Nagar, Hazrat Bilal Nagar, Amravati, Maharashtra 444601, MH27 FITNESS & WELLNESS CLUB offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.9/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "85+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - MH27 FITNESS & WELLNESS CLUB",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - MH27 FITNESS & WELLNESS CLUB",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "MH27 FITNESS & WELLNESS CLUB Main Floor"
+      "caption": "MH27 FITNESS & WELLNESS CLUB Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! MH27 FITNESS & WELLNESS CLUB has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined MH27 FITNESS & WELLNESS CLUB 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at MH27 FITNESS & WELLNESS CLUB! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -6897,23 +4724,23 @@ export const mh27fitnesswellnessclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit MH27 FITNESS & WELLNESS CLUB",
-    "subtitle": "Lane No. 3, Vilas Nagar, Hazrat Bilal Nagar, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Lane No. 3, Vilas Nagar, Hazrat Bilal Nagar, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at MH27 FITNESS & WELLNESS CLUB?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with MH27 FITNESS & WELLNESS CLUB",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -6930,8 +4757,8 @@ export const mh27Gym: BusinessData = {
   "slug": "mh27",
   "name": "MH27",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "MH27 is a premier fitness center located in Amravati. Rated 4.2\u2605 on Google Maps with over 85 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Sportswear store",
+  "description": "MH27 is located in Amravati (Janardhan Peth Gandhi chock namuna gwli no.1, Amravati, Maharashtra 444601). Rated 4.2\u2605 on Google Maps with over 85 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "MH27",
   "contact": {
     "phone": "086230 36827",
@@ -6941,7 +4768,7 @@ export const mh27Gym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/mh27",
     "googleMaps": "https://www.google.com/maps?cid=3675440420543803870",
     "social": {
       "instagram": "",
@@ -6964,11 +4791,11 @@ export const mh27Gym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.2\u2605 Google Rating)",
-    "heading": "Transform Your Body at MH27",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.2\u2605 Google Rating)",
+    "heading": "Welcome to MH27",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -6983,174 +4810,73 @@ export const mh27Gym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose MH27 in Amravati?",
-    "description": "Located at Janardhan Peth Gandhi chock namuna gwli no.1, Amravati, Maharashtra 444601, MH27 provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About MH27",
+    "description": "Located at Janardhan Peth Gandhi chock namuna gwli no.1, Amravati, Maharashtra 444601, MH27 offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.2/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "85+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - MH27",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - MH27",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "MH27 Main Floor"
+      "caption": "MH27 Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! MH27 has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined MH27 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at MH27! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -7174,23 +4900,23 @@ export const mh27Gym: BusinessData = {
   ],
   "location": {
     "title": "Visit MH27",
-    "subtitle": "Janardhan Peth Gandhi chock namuna gwli no.1, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Janardhan Peth Gandhi chock namuna gwli no.1, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at MH27?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with MH27",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -7207,8 +4933,8 @@ export const strengthfactorycampGym: BusinessData = {
   "slug": "strength-factory-camp",
   "name": "Strength Factory Camp",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Strength Factory Camp is a premier fitness center located in Amravati. Rated 4.7\u2605 on Google Maps with over 76 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Strength Factory Camp is located in Amravati (Mangilal Plot, Maltekdi, Amravati, Maharashtra 444602). Rated 4.7\u2605 on Google Maps with over 76 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "STRENGTH FACTORY CAMP",
   "contact": {
     "phone": "091126 68665",
@@ -7218,7 +4944,7 @@ export const strengthfactorycampGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/strength-factory-camp",
     "googleMaps": "https://www.google.com/maps?cid=11554581892437486908",
     "social": {
       "instagram": "",
@@ -7241,11 +4967,11 @@ export const strengthfactorycampGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.7\u2605 Google Rating)",
-    "heading": "Transform Your Body at Strength Factory Camp",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.7\u2605 Google Rating)",
+    "heading": "Welcome to Strength Factory Camp",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -7260,174 +4986,73 @@ export const strengthfactorycampGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Strength Factory Camp in Amravati?",
-    "description": "Located at Mangilal Plot, Maltekdi, Amravati, Maharashtra 444602, Strength Factory Camp provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Strength Factory Camp",
+    "description": "Located at Mangilal Plot, Maltekdi, Amravati, Maharashtra 444602, Strength Factory Camp offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.7/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "76+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Strength Factory Camp",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Strength Factory Camp",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Strength Factory Camp Main Floor"
+      "caption": "Strength Factory Camp Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Strength Factory Camp has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Strength Factory Camp 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Strength Factory Camp! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -7451,23 +5076,23 @@ export const strengthfactorycampGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Strength Factory Camp",
-    "subtitle": "Mangilal Plot, Maltekdi, Amravati, Maharashtra 444602. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Mangilal Plot, Maltekdi, Amravati, Maharashtra 444602. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Strength Factory Camp?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Strength Factory Camp",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -7484,8 +5109,8 @@ export const chieselfitnessgymclubGym: BusinessData = {
   "slug": "chiesel-fitness-gym-club",
   "name": "ChieseL Fitness gym club",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "ChieseL Fitness gym club is a premier fitness center located in Amravati. Rated 3.9\u2605 on Google Maps with over 75 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "ChieseL Fitness gym club is located in Amravati (Dastur Nagar, Amravati, Maharashtra 444606). Rated 3.9\u2605 on Google Maps with over 75 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "CHIESEL FITNESS GYM CLUB",
   "contact": {
     "phone": "095886 47356",
@@ -7495,7 +5120,7 @@ export const chieselfitnessgymclubGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/chiesel-fitness-gym-club",
     "googleMaps": "https://www.google.com/maps?cid=8922472170796663633",
     "social": {
       "instagram": "",
@@ -7518,11 +5143,11 @@ export const chieselfitnessgymclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (3.9\u2605 Google Rating)",
-    "heading": "Transform Your Body at ChieseL Fitness gym club",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (3.9\u2605 Google Rating)",
+    "heading": "Welcome to ChieseL Fitness gym club",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -7537,174 +5162,73 @@ export const chieselfitnessgymclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose ChieseL Fitness gym club in Amravati?",
-    "description": "Located at Dastur Nagar, Amravati, Maharashtra 444606, ChieseL Fitness gym club provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About ChieseL Fitness gym club",
+    "description": "Located at Dastur Nagar, Amravati, Maharashtra 444606, ChieseL Fitness gym club offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "3.9/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "75+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - ChieseL Fitness gym club",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - ChieseL Fitness gym club",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "ChieseL Fitness gym club Main Floor"
+      "caption": "ChieseL Fitness gym club Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! ChieseL Fitness gym club has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined ChieseL Fitness gym club 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at ChieseL Fitness gym club! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -7728,23 +5252,23 @@ export const chieselfitnessgymclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit ChieseL Fitness gym club",
-    "subtitle": "Dastur Nagar, Amravati, Maharashtra 444606. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Dastur Nagar, Amravati, Maharashtra 444606. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at ChieseL Fitness gym club?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with ChieseL Fitness gym club",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -7761,8 +5285,8 @@ export const rawfitnessgymGym: BusinessData = {
   "slug": "raw-fitness-gym",
   "name": "Raw Fitness Gym",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Raw Fitness Gym is a premier fitness center located in Amravati. Rated 4.8\u2605 on Google Maps with over 73 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Raw Fitness Gym is located in Amravati (Raj Complex, opp. New Cotton Market Road, Krishna Nagar, Rampuri Camp, Amravati, Maharashtra 444601). Rated 4.8\u2605 on Google Maps with over 73 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "RAW FITNESS GYM",
   "contact": {
     "phone": "080874 33003",
@@ -7795,11 +5319,11 @@ export const rawfitnessgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.8\u2605 Google Rating)",
-    "heading": "Transform Your Body at Raw Fitness Gym",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.8\u2605 Google Rating)",
+    "heading": "Welcome to Raw Fitness Gym",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -7814,174 +5338,73 @@ export const rawfitnessgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Raw Fitness Gym in Amravati?",
-    "description": "Located at Raj Complex, opp. New Cotton Market Road, Krishna Nagar, Rampuri Camp, Amravati, Maharashtra 444601, Raw Fitness Gym provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Raw Fitness Gym",
+    "description": "Located at Raj Complex, opp. New Cotton Market Road, Krishna Nagar, Rampuri Camp, Amravati, Maharashtra 444601, Raw Fitness Gym offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.8/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "73+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Raw Fitness Gym",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Raw Fitness Gym",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Raw Fitness Gym Main Floor"
+      "caption": "Raw Fitness Gym Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Raw Fitness Gym has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Raw Fitness Gym 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Raw Fitness Gym! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -8005,23 +5428,23 @@ export const rawfitnessgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Raw Fitness Gym",
-    "subtitle": "Raj Complex, opp. New Cotton Market Road, Krishna Nagar, Rampuri Camp, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Raj Complex, opp. New Cotton Market Road, Krishna Nagar, Rampuri Camp, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Raw Fitness Gym?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Raw Fitness Gym",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -8038,8 +5461,8 @@ export const mrbodyfactoryamravatiGym: BusinessData = {
   "slug": "mr-body-factory-amravati",
   "name": "MR BODY FACTORY ,AMRAVATI",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "MR BODY FACTORY ,AMRAVATI is a premier fitness center located in Amravati. Rated 4.2\u2605 on Google Maps with over 68 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "MR BODY FACTORY ,AMRAVATI is located in Amravati (Atul Mangal Karyalaya, 1, Swami Vivekanand Rd, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606). Rated 4.2\u2605 on Google Maps with over 68 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "MR BODY FACTORY ,AMRAVATI",
   "contact": {
     "phone": "091686 18097",
@@ -8072,11 +5495,11 @@ export const mrbodyfactoryamravatiGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.2\u2605 Google Rating)",
-    "heading": "Transform Your Body at MR BODY FACTORY ,AMRAVATI",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.2\u2605 Google Rating)",
+    "heading": "Welcome to MR BODY FACTORY ,AMRAVATI",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -8091,174 +5514,73 @@ export const mrbodyfactoryamravatiGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose MR BODY FACTORY ,AMRAVATI in Amravati?",
-    "description": "Located at Atul Mangal Karyalaya, 1, Swami Vivekanand Rd, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606, MR BODY FACTORY ,AMRAVATI provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About MR BODY FACTORY ,AMRAVATI",
+    "description": "Located at Atul Mangal Karyalaya, 1, Swami Vivekanand Rd, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606, MR BODY FACTORY ,AMRAVATI offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.2/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "68+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - MR BODY FACTORY ,AMRAVATI",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - MR BODY FACTORY ,AMRAVATI",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "MR BODY FACTORY ,AMRAVATI Main Floor"
+      "caption": "MR BODY FACTORY ,AMRAVATI Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! MR BODY FACTORY ,AMRAVATI has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined MR BODY FACTORY ,AMRAVATI 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at MR BODY FACTORY ,AMRAVATI! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -8282,23 +5604,23 @@ export const mrbodyfactoryamravatiGym: BusinessData = {
   ],
   "location": {
     "title": "Visit MR BODY FACTORY ,AMRAVATI",
-    "subtitle": "Atul Mangal Karyalaya, 1, Swami Vivekanand Rd, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Atul Mangal Karyalaya, 1, Swami Vivekanand Rd, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at MR BODY FACTORY ,AMRAVATI?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with MR BODY FACTORY ,AMRAVATI",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -8315,8 +5637,8 @@ export const cactusfitnessbestgymGym: BusinessData = {
   "slug": "cactus-fitness---best-gym",
   "name": "Cactus Fitness - Best Gym",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Cactus Fitness - Best Gym is a premier fitness center located in Amravati. Rated 4.7\u2605 on Google Maps with over 55 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Cactus Fitness - Best Gym is located in Amravati (1st floor, Cactus Fitness, Plot no.5, Akoli Rd, Parvati Nagar, Amravati, Maharashtra 444605). Rated 4.7\u2605 on Google Maps with over 55 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "CACTUS FITNESS - BEST GYM",
   "contact": {
     "phone": "077588 77153",
@@ -8349,11 +5671,11 @@ export const cactusfitnessbestgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.7\u2605 Google Rating)",
-    "heading": "Transform Your Body at Cactus Fitness - Best Gym",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.7\u2605 Google Rating)",
+    "heading": "Welcome to Cactus Fitness - Best Gym",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -8368,174 +5690,73 @@ export const cactusfitnessbestgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Cactus Fitness - Best Gym in Amravati?",
-    "description": "Located at 1st floor, Cactus Fitness, Plot no.5, Akoli Rd, Parvati Nagar, Amravati, Maharashtra 444605, Cactus Fitness - Best Gym provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Cactus Fitness - Best Gym",
+    "description": "Located at 1st floor, Cactus Fitness, Plot no.5, Akoli Rd, Parvati Nagar, Amravati, Maharashtra 444605, Cactus Fitness - Best Gym offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.7/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "55+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Cactus Fitness - Best Gym",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Cactus Fitness - Best Gym",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Cactus Fitness - Best Gym Main Floor"
+      "caption": "Cactus Fitness - Best Gym Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Cactus Fitness - Best Gym has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Cactus Fitness - Best Gym 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Cactus Fitness - Best Gym! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -8559,23 +5780,23 @@ export const cactusfitnessbestgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Cactus Fitness - Best Gym",
-    "subtitle": "1st floor, Cactus Fitness, Plot no.5, Akoli Rd, Parvati Nagar, Amravati, Maharashtra 444605. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "1st floor, Cactus Fitness, Plot no.5, Akoli Rd, Parvati Nagar, Amravati, Maharashtra 444605. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Cactus Fitness - Best Gym?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Cactus Fitness - Best Gym",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -8592,8 +5813,8 @@ export const amnutritionGym: BusinessData = {
   "slug": "am-nutrition",
   "name": "AM NUTRITION",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "AM NUTRITION is a premier fitness center located in Amravati. Rated 4.9\u2605 on Google Maps with over 54 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Vitamin & supplements store",
+  "description": "AM NUTRITION is located in Amravati (Walgaon Rd, near Asoriya Petrol Pump, beside Hitachi ATM, Habib Nagar, Zakir Colony, Amravati, Maharashtra 444601). Rated 4.9\u2605 on Google Maps with over 54 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "AM NUTRITION",
   "contact": {
     "phone": "075586 90192",
@@ -8626,11 +5847,11 @@ export const amnutritionGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.9\u2605 Google Rating)",
-    "heading": "Transform Your Body at AM NUTRITION",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.9\u2605 Google Rating)",
+    "heading": "Welcome to AM NUTRITION",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -8645,174 +5866,73 @@ export const amnutritionGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose AM NUTRITION in Amravati?",
-    "description": "Located at Walgaon Rd, near Asoriya Petrol Pump, beside Hitachi ATM, Habib Nagar, Zakir Colony, Amravati, Maharashtra 444601, AM NUTRITION provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About AM NUTRITION",
+    "description": "Located at Walgaon Rd, near Asoriya Petrol Pump, beside Hitachi ATM, Habib Nagar, Zakir Colony, Amravati, Maharashtra 444601, AM NUTRITION offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.9/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "54+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - AM NUTRITION",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - AM NUTRITION",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "AM NUTRITION Main Floor"
+      "caption": "AM NUTRITION Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! AM NUTRITION has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined AM NUTRITION 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at AM NUTRITION! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -8836,23 +5956,23 @@ export const amnutritionGym: BusinessData = {
   ],
   "location": {
     "title": "Visit AM NUTRITION",
-    "subtitle": "Walgaon Rd, near Asoriya Petrol Pump, beside Hitachi ATM, Habib Nagar, Zakir Colony, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Walgaon Rd, near Asoriya Petrol Pump, beside Hitachi ATM, Habib Nagar, Zakir Colony, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at AM NUTRITION?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with AM NUTRITION",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -8869,8 +5989,8 @@ export const proactivefitnesswellnessclubGym: BusinessData = {
   "slug": "proactive-fitness-wellness-club",
   "name": "Proactive fitness & wellness club",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Proactive fitness & wellness club is a premier fitness center located in Amravati. Rated 4.5\u2605 on Google Maps with over 52 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Proactive fitness & wellness club is located in Amravati (Old, Sarafa Market, inside Jawahar Gate, Sarafa, Indra Prastha, Amravati, Maharashtra 444601). Rated 4.5\u2605 on Google Maps with over 52 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "PROACTIVE FITNESS & WELLNESS CLUB",
   "contact": {
     "phone": "098606 15979",
@@ -8903,11 +6023,11 @@ export const proactivefitnesswellnessclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.5\u2605 Google Rating)",
-    "heading": "Transform Your Body at Proactive fitness & wellness club",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.5\u2605 Google Rating)",
+    "heading": "Welcome to Proactive fitness & wellness club",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -8922,174 +6042,73 @@ export const proactivefitnesswellnessclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Proactive fitness & wellness club in Amravati?",
-    "description": "Located at Old, Sarafa Market, inside Jawahar Gate, Sarafa, Indra Prastha, Amravati, Maharashtra 444601, Proactive fitness & wellness club provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Proactive fitness & wellness club",
+    "description": "Located at Old, Sarafa Market, inside Jawahar Gate, Sarafa, Indra Prastha, Amravati, Maharashtra 444601, Proactive fitness & wellness club offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.5/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "52+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Proactive fitness & wellness club",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Proactive fitness & wellness club",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Proactive fitness & wellness club Main Floor"
+      "caption": "Proactive fitness & wellness club Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Proactive fitness & wellness club has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Proactive fitness & wellness club 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Proactive fitness & wellness club! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -9113,23 +6132,23 @@ export const proactivefitnesswellnessclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Proactive fitness & wellness club",
-    "subtitle": "Old, Sarafa Market, inside Jawahar Gate, Sarafa, Indra Prastha, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Old, Sarafa Market, inside Jawahar Gate, Sarafa, Indra Prastha, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Proactive fitness & wellness club?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Proactive fitness & wellness club",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -9146,8 +6165,8 @@ export const fusionfitnessbyneetujangidGym: BusinessData = {
   "slug": "fusion-fitness-by-neetu-jangid",
   "name": "Fusion fitness by Neetu Jangid",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Fusion fitness by Neetu Jangid is a premier fitness center located in Amravati. Rated 5.0\u2605 on Google Maps with over 52 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Fusion fitness by Neetu Jangid is located in Amravati (Delhi public school road, Amba Colony, Sharda Vihar, Amravati, Maharashtra 444605). Rated 5.0\u2605 on Google Maps with over 52 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "FUSION FITNESS BY NEETU JANGID",
   "contact": {
     "phone": "073858 54546",
@@ -9180,11 +6199,11 @@ export const fusionfitnessbyneetujangidGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (5.0\u2605 Google Rating)",
-    "heading": "Transform Your Body at Fusion fitness by Neetu Jangid",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (5.0\u2605 Google Rating)",
+    "heading": "Welcome to Fusion fitness by Neetu Jangid",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -9199,174 +6218,73 @@ export const fusionfitnessbyneetujangidGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Fusion fitness by Neetu Jangid in Amravati?",
-    "description": "Located at Delhi public school road, Amba Colony, Sharda Vihar, Amravati, Maharashtra 444605, Fusion fitness by Neetu Jangid provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Fusion fitness by Neetu Jangid",
+    "description": "Located at Delhi public school road, Amba Colony, Sharda Vihar, Amravati, Maharashtra 444605, Fusion fitness by Neetu Jangid offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "5.0/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "52+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Fusion fitness by Neetu Jangid",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Fusion fitness by Neetu Jangid",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Fusion fitness by Neetu Jangid Main Floor"
+      "caption": "Fusion fitness by Neetu Jangid Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Fusion fitness by Neetu Jangid has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Fusion fitness by Neetu Jangid 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Fusion fitness by Neetu Jangid! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -9390,23 +6308,23 @@ export const fusionfitnessbyneetujangidGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Fusion fitness by Neetu Jangid",
-    "subtitle": "Delhi public school road, Amba Colony, Sharda Vihar, Amravati, Maharashtra 444605. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Delhi public school road, Amba Colony, Sharda Vihar, Amravati, Maharashtra 444605. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Fusion fitness by Neetu Jangid?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Fusion fitness by Neetu Jangid",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -9423,8 +6341,8 @@ export const kbfitnessarenaGym: BusinessData = {
   "slug": "kb-fitness-arena",
   "name": "KB FITNESS ARENA",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "KB FITNESS ARENA is a premier fitness center located in Amravati. Rated 4.9\u2605 on Google Maps with over 52 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "KB FITNESS ARENA is located in Amravati (3rd Floor, Sai Plaza, Main Road, opposite Saibaba Mandir, Banosa, Gandhinagar, Daryapur Banosa, Maharashtra 444803). Rated 4.9\u2605 on Google Maps with over 52 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "KB FITNESS ARENA",
   "contact": {
     "phone": "094041 15858",
@@ -9457,11 +6375,11 @@ export const kbfitnessarenaGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.9\u2605 Google Rating)",
-    "heading": "Transform Your Body at KB FITNESS ARENA",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.9\u2605 Google Rating)",
+    "heading": "Welcome to KB FITNESS ARENA",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -9476,174 +6394,73 @@ export const kbfitnessarenaGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose KB FITNESS ARENA in Amravati?",
-    "description": "Located at 3rd Floor, Sai Plaza, Main Road, opposite Saibaba Mandir, Banosa, Gandhinagar, Daryapur Banosa, Maharashtra 444803, KB FITNESS ARENA provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About KB FITNESS ARENA",
+    "description": "Located at 3rd Floor, Sai Plaza, Main Road, opposite Saibaba Mandir, Banosa, Gandhinagar, Daryapur Banosa, Maharashtra 444803, KB FITNESS ARENA offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.9/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "52+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - KB FITNESS ARENA",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - KB FITNESS ARENA",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "KB FITNESS ARENA Main Floor"
+      "caption": "KB FITNESS ARENA Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! KB FITNESS ARENA has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined KB FITNESS ARENA 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at KB FITNESS ARENA! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -9667,23 +6484,23 @@ export const kbfitnessarenaGym: BusinessData = {
   ],
   "location": {
     "title": "Visit KB FITNESS ARENA",
-    "subtitle": "3rd Floor, Sai Plaza, Main Road, opposite Saibaba Mandir, Banosa, Gandhinagar, Daryapur Banosa, Maharashtra 444803. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "3rd Floor, Sai Plaza, Main Road, opposite Saibaba Mandir, Banosa, Gandhinagar, Daryapur Banosa, Maharashtra 444803. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at KB FITNESS ARENA?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with KB FITNESS ARENA",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -9700,8 +6517,8 @@ export const partishyogaclassesGym: BusinessData = {
   "slug": "partish-yoga-classes",
   "name": "Partish Yoga Classes",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Partish Yoga Classes is a premier fitness center located in Amravati. Rated 4.7\u2605 on Google Maps with over 43 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Partish Yoga Classes is located in Amravati (Shri brahmcharya Maharaj Muralidhar Mandir, Bhaji Bazar Rd, Bhaji Bazar, Amravati, Maharashtra 444601). Rated 4.7\u2605 on Google Maps with over 43 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "PARTISH YOGA CLASSES",
   "contact": {
     "phone": "088055 64450",
@@ -9711,7 +6528,7 @@ export const partishyogaclassesGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/partish-yoga-classes",
     "googleMaps": "https://www.google.com/maps?cid=1669485551448677311",
     "social": {
       "instagram": "",
@@ -9719,11 +6536,11 @@ export const partishyogaclassesGym: BusinessData = {
     }
   },
   "branding": {
-    "primaryColor": "#EAB308",
-    "secondaryColor": "#0F0F0F",
-    "accentColor": "#FACC15",
-    "backgroundColor": "#0A0A0A",
-    "surfaceColor": "#141414",
+    "primaryColor": "#EC4899",
+    "secondaryColor": "#110E14",
+    "accentColor": "#F43F5E",
+    "backgroundColor": "#0E0B12",
+    "surfaceColor": "#1C1524",
     "textColor": "#F5F5F5",
     "textMutedColor": "#A3A3A3",
     "headingFont": "'Oswald', sans-serif",
@@ -9734,11 +6551,11 @@ export const partishyogaclassesGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.7\u2605 Google Rating)",
-    "heading": "Transform Your Body at Partish Yoga Classes",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.7\u2605 Google Rating)",
+    "heading": "Welcome to Partish Yoga Classes",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -9753,174 +6570,73 @@ export const partishyogaclassesGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Partish Yoga Classes in Amravati?",
-    "description": "Located at Shri brahmcharya Maharaj Muralidhar Mandir, Bhaji Bazar Rd, Bhaji Bazar, Amravati, Maharashtra 444601, Partish Yoga Classes provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Partish Yoga Classes",
+    "description": "Located at Shri brahmcharya Maharaj Muralidhar Mandir, Bhaji Bazar Rd, Bhaji Bazar, Amravati, Maharashtra 444601, Partish Yoga Classes offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.7/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "43+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Partish Yoga Classes",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Partish Yoga Classes",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Partish Yoga Classes Main Floor"
+      "caption": "Partish Yoga Classes Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Partish Yoga Classes has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Partish Yoga Classes 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Partish Yoga Classes! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -9944,23 +6660,23 @@ export const partishyogaclassesGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Partish Yoga Classes",
-    "subtitle": "Shri brahmcharya Maharaj Muralidhar Mandir, Bhaji Bazar Rd, Bhaji Bazar, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Shri brahmcharya Maharaj Muralidhar Mandir, Bhaji Bazar Rd, Bhaji Bazar, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Partish Yoga Classes?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Partish Yoga Classes",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -9977,8 +6693,8 @@ export const mountfitnessgymGym: BusinessData = {
   "slug": "mount-fitness-gym",
   "name": "Mount fitness gym",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Mount fitness gym is a premier fitness center located in Amravati. Rated 4.8\u2605 on Google Maps with over 41 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Mount fitness gym is located in Amravati (Ring Rd, near golden leaf marriage hall And Muktai marriage hall, Vishal colony, Rahatgaon, Amravati, Maharashtra 444604). Rated 4.8\u2605 on Google Maps with over 41 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "MOUNT FITNESS GYM",
   "contact": {
     "phone": "095035 18407",
@@ -9988,7 +6704,7 @@ export const mountfitnessgymGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/mount-fitness-gym",
     "googleMaps": "https://www.google.com/maps?cid=12202749395801877964",
     "social": {
       "instagram": "",
@@ -10011,11 +6727,11 @@ export const mountfitnessgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.8\u2605 Google Rating)",
-    "heading": "Transform Your Body at Mount fitness gym",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.8\u2605 Google Rating)",
+    "heading": "Welcome to Mount fitness gym",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -10030,174 +6746,73 @@ export const mountfitnessgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Mount fitness gym in Amravati?",
-    "description": "Located at Ring Rd, near golden leaf marriage hall And Muktai marriage hall, Vishal colony, Rahatgaon, Amravati, Maharashtra 444604, Mount fitness gym provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Mount fitness gym",
+    "description": "Located at Ring Rd, near golden leaf marriage hall And Muktai marriage hall, Vishal colony, Rahatgaon, Amravati, Maharashtra 444604, Mount fitness gym offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.8/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "41+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Mount fitness gym",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Mount fitness gym",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Mount fitness gym Main Floor"
+      "caption": "Mount fitness gym Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Mount fitness gym has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Mount fitness gym 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Mount fitness gym! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -10221,23 +6836,23 @@ export const mountfitnessgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Mount fitness gym",
-    "subtitle": "Ring Rd, near golden leaf marriage hall And Muktai marriage hall, Vishal colony, Rahatgaon, Amravati, Maharashtra 444604. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Ring Rd, near golden leaf marriage hall And Muktai marriage hall, Vishal colony, Rahatgaon, Amravati, Maharashtra 444604. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Mount fitness gym?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Mount fitness gym",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -10254,8 +6869,8 @@ export const spartathegymrathinagarGym: BusinessData = {
   "slug": "sparta-the-gym-rathinagar",
   "name": "SPARTA THE GYM RATHINAGAR",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "SPARTA THE GYM RATHINAGAR is a premier fitness center located in Amravati. Rated 5.0\u2605 on Google Maps with over 41 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "SPARTA THE GYM RATHINAGAR is located in Amravati (MK Commercial, VMV College Road, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603). Rated 5.0\u2605 on Google Maps with over 41 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "SPARTA THE GYM RATHINAGAR",
   "contact": {
     "phone": "081800 18002",
@@ -10265,7 +6880,7 @@ export const spartathegymrathinagarGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/sparta-the-gym-rathinagar",
     "googleMaps": "https://www.google.com/maps?cid=3344146852967260447",
     "social": {
       "instagram": "",
@@ -10288,11 +6903,11 @@ export const spartathegymrathinagarGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (5.0\u2605 Google Rating)",
-    "heading": "Transform Your Body at SPARTA THE GYM RATHINAGAR",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (5.0\u2605 Google Rating)",
+    "heading": "Welcome to SPARTA THE GYM RATHINAGAR",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -10307,174 +6922,73 @@ export const spartathegymrathinagarGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose SPARTA THE GYM RATHINAGAR in Amravati?",
-    "description": "Located at MK Commercial, VMV College Road, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603, SPARTA THE GYM RATHINAGAR provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About SPARTA THE GYM RATHINAGAR",
+    "description": "Located at MK Commercial, VMV College Road, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603, SPARTA THE GYM RATHINAGAR offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "5.0/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "41+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - SPARTA THE GYM RATHINAGAR",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - SPARTA THE GYM RATHINAGAR",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "SPARTA THE GYM RATHINAGAR Main Floor"
+      "caption": "SPARTA THE GYM RATHINAGAR Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! SPARTA THE GYM RATHINAGAR has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined SPARTA THE GYM RATHINAGAR 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at SPARTA THE GYM RATHINAGAR! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -10498,23 +7012,23 @@ export const spartathegymrathinagarGym: BusinessData = {
   ],
   "location": {
     "title": "Visit SPARTA THE GYM RATHINAGAR",
-    "subtitle": "MK Commercial, VMV College Road, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "MK Commercial, VMV College Road, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at SPARTA THE GYM RATHINAGAR?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with SPARTA THE GYM RATHINAGAR",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -10531,8 +7045,8 @@ export const graceaerobicsfitnesscentreGym: BusinessData = {
   "slug": "grace-aerobics-fitness-centre",
   "name": "Grace Aerobics Fitness Centre",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Grace Aerobics Fitness Centre is a premier fitness center located in Amravati. Rated 4.1\u2605 on Google Maps with over 41 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "Grace Aerobics Fitness Centre is located in Amravati (Pannalal nagar, Shilangan Rd, near Asmita Vidyamandir, Patvipura, Amravati, Maharashtra 444605). Rated 4.1\u2605 on Google Maps with over 41 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "GRACE AEROBICS FITNESS CENTRE",
   "contact": {
     "phone": "086982 45871",
@@ -10542,7 +7056,7 @@ export const graceaerobicsfitnesscentreGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/grace-aerobics-fitness-centre",
     "googleMaps": "https://www.google.com/maps?cid=16781713276683497825",
     "social": {
       "instagram": "",
@@ -10565,11 +7079,11 @@ export const graceaerobicsfitnesscentreGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.1\u2605 Google Rating)",
-    "heading": "Transform Your Body at Grace Aerobics Fitness Centre",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.1\u2605 Google Rating)",
+    "heading": "Welcome to Grace Aerobics Fitness Centre",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -10584,174 +7098,73 @@ export const graceaerobicsfitnesscentreGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Grace Aerobics Fitness Centre in Amravati?",
-    "description": "Located at Pannalal nagar, Shilangan Rd, near Asmita Vidyamandir, Patvipura, Amravati, Maharashtra 444605, Grace Aerobics Fitness Centre provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Grace Aerobics Fitness Centre",
+    "description": "Located at Pannalal nagar, Shilangan Rd, near Asmita Vidyamandir, Patvipura, Amravati, Maharashtra 444605, Grace Aerobics Fitness Centre offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.1/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "41+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Grace Aerobics Fitness Centre",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Grace Aerobics Fitness Centre",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Grace Aerobics Fitness Centre Main Floor"
+      "caption": "Grace Aerobics Fitness Centre Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Grace Aerobics Fitness Centre has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Grace Aerobics Fitness Centre 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Grace Aerobics Fitness Centre! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -10775,23 +7188,23 @@ export const graceaerobicsfitnesscentreGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Grace Aerobics Fitness Centre",
-    "subtitle": "Pannalal nagar, Shilangan Rd, near Asmita Vidyamandir, Patvipura, Amravati, Maharashtra 444605. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Pannalal nagar, Shilangan Rd, near Asmita Vidyamandir, Patvipura, Amravati, Maharashtra 444605. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Grace Aerobics Fitness Centre?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Grace Aerobics Fitness Centre",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -10808,8 +7221,8 @@ export const ambfitnessclubGym: BusinessData = {
   "slug": "amb-fitness-club",
   "name": "AMB Fitness Club",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "AMB Fitness Club is a premier fitness center located in Amravati. Rated 4.8\u2605 on Google Maps with over 40 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "AMB Fitness Club is located in Amravati (3rd Floor, Popular Mall, SRPF Camp Rd, Chaprasi Pura, Square, Shivneri Colony, Amravati, Maharashtra 444606). Rated 4.8\u2605 on Google Maps with over 40 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "AMB FITNESS CLUB",
   "contact": {
     "phone": "096893 31332",
@@ -10842,11 +7255,11 @@ export const ambfitnessclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.8\u2605 Google Rating)",
-    "heading": "Transform Your Body at AMB Fitness Club",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.8\u2605 Google Rating)",
+    "heading": "Welcome to AMB Fitness Club",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -10861,174 +7274,73 @@ export const ambfitnessclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose AMB Fitness Club in Amravati?",
-    "description": "Located at 3rd Floor, Popular Mall, SRPF Camp Rd, Chaprasi Pura, Square, Shivneri Colony, Amravati, Maharashtra 444606, AMB Fitness Club provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About AMB Fitness Club",
+    "description": "Located at 3rd Floor, Popular Mall, SRPF Camp Rd, Chaprasi Pura, Square, Shivneri Colony, Amravati, Maharashtra 444606, AMB Fitness Club offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.8/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "40+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - AMB Fitness Club",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - AMB Fitness Club",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "AMB Fitness Club Main Floor"
+      "caption": "AMB Fitness Club Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! AMB Fitness Club has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined AMB Fitness Club 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at AMB Fitness Club! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -11052,23 +7364,23 @@ export const ambfitnessclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit AMB Fitness Club",
-    "subtitle": "3rd Floor, Popular Mall, SRPF Camp Rd, Chaprasi Pura, Square, Shivneri Colony, Amravati, Maharashtra 444606. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "3rd Floor, Popular Mall, SRPF Camp Rd, Chaprasi Pura, Square, Shivneri Colony, Amravati, Maharashtra 444606. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at AMB Fitness Club?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with AMB Fitness Club",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -11085,8 +7397,8 @@ export const awomansgymGym: BusinessData = {
   "slug": "a-womans-gym",
   "name": "A Woman's Gym",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "A Woman's Gym is a premier fitness center located in Amravati. Rated 4.6\u2605 on Google Maps with over 37 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Gym",
+  "description": "A Woman's Gym is located in Amravati (behind Unique school, Samarpan Colony, Paradise Colony, Amravati, Maharashtra 444601). Rated 4.6\u2605 on Google Maps with over 37 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "A WOMAN'S GYM",
   "contact": {
     "phone": "077092 06195",
@@ -11096,7 +7408,7 @@ export const awomansgymGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/a-womans-gym",
     "googleMaps": "https://www.google.com/maps?cid=16510089275062258220",
     "social": {
       "instagram": "",
@@ -11119,11 +7431,11 @@ export const awomansgymGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.6\u2605 Google Rating)",
-    "heading": "Transform Your Body at A Woman's Gym",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.6\u2605 Google Rating)",
+    "heading": "Welcome to A Woman's Gym",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -11138,174 +7450,73 @@ export const awomansgymGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose A Woman's Gym in Amravati?",
-    "description": "Located at behind Unique school, Samarpan Colony, Paradise Colony, Amravati, Maharashtra 444601, A Woman's Gym provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About A Woman's Gym",
+    "description": "Located at behind Unique school, Samarpan Colony, Paradise Colony, Amravati, Maharashtra 444601, A Woman's Gym offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.6/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "37+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - A Woman's Gym",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - A Woman's Gym",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "A Woman's Gym Main Floor"
+      "caption": "A Woman's Gym Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! A Woman's Gym has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined A Woman's Gym 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at A Woman's Gym! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -11329,23 +7540,23 @@ export const awomansgymGym: BusinessData = {
   ],
   "location": {
     "title": "Visit A Woman's Gym",
-    "subtitle": "behind Unique school, Samarpan Colony, Paradise Colony, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "behind Unique school, Samarpan Colony, Paradise Colony, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at A Woman's Gym?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with A Woman's Gym",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -11362,8 +7573,8 @@ export const choosetoloseGym: BusinessData = {
   "slug": "choose-to-lose",
   "name": "Choose To Lose",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Choose To Lose is a premier fitness center located in Amravati. Rated 4.7\u2605 on Google Maps with over 35 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Choose To Lose is located in Amravati (Ground Floor, Mehfil Hotel, Next level mall, Choose To Lose, opp. The Grand, Camp, Amravati, Maharashtra 444602). Rated 4.7\u2605 on Google Maps with over 35 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "CHOOSE TO LOSE",
   "contact": {
     "phone": "095522 33141",
@@ -11373,7 +7584,7 @@ export const choosetoloseGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/choose-to-lose",
     "googleMaps": "https://www.google.com/maps?cid=8910821209125321830",
     "social": {
       "instagram": "",
@@ -11396,11 +7607,11 @@ export const choosetoloseGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.7\u2605 Google Rating)",
-    "heading": "Transform Your Body at Choose To Lose",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.7\u2605 Google Rating)",
+    "heading": "Welcome to Choose To Lose",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -11415,174 +7626,73 @@ export const choosetoloseGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Choose To Lose in Amravati?",
-    "description": "Located at Ground Floor, Mehfil Hotel, Next level mall, Choose To Lose, opp. The Grand, Camp, Amravati, Maharashtra 444602, Choose To Lose provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Choose To Lose",
+    "description": "Located at Ground Floor, Mehfil Hotel, Next level mall, Choose To Lose, opp. The Grand, Camp, Amravati, Maharashtra 444602, Choose To Lose offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.7/5.0"
       },
       {
-        "label": "Weekly Sessions",
+        "label": "Verified Reviews",
         "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Choose To Lose",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Choose To Lose",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Choose To Lose Main Floor"
+      "caption": "Choose To Lose Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Choose To Lose has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Choose To Lose 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Choose To Lose! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -11606,23 +7716,23 @@ export const choosetoloseGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Choose To Lose",
-    "subtitle": "Ground Floor, Mehfil Hotel, Next level mall, Choose To Lose, opp. The Grand, Camp, Amravati, Maharashtra 444602. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Ground Floor, Mehfil Hotel, Next level mall, Choose To Lose, opp. The Grand, Camp, Amravati, Maharashtra 444602. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Choose To Lose?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Choose To Lose",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -11639,8 +7749,8 @@ export const chieselfitnessclub20Gym: BusinessData = {
   "slug": "chiesel-fitness-club-20",
   "name": "Chiesel Fitness Club 2.0",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Chiesel Fitness Club 2.0 is a premier fitness center located in Amravati. Rated 4.2\u2605 on Google Maps with over 32 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Chiesel Fitness Club 2.0 is located in Amravati (Lane No. 1, in front of PDMC Hospital, Radha Nagar, Panchvati, Amravati, Maharashtra 444603). Rated 4.2\u2605 on Google Maps with over 32 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "CHIESEL FITNESS CLUB 2.0",
   "contact": {
     "phone": "082371 00249",
@@ -11650,7 +7760,7 @@ export const chieselfitnessclub20Gym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/chiesel-fitness-club-20",
     "googleMaps": "https://www.google.com/maps?cid=464546528023993246",
     "social": {
       "instagram": "",
@@ -11673,11 +7783,11 @@ export const chieselfitnessclub20Gym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.2\u2605 Google Rating)",
-    "heading": "Transform Your Body at Chiesel Fitness Club 2.0",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.2\u2605 Google Rating)",
+    "heading": "Welcome to Chiesel Fitness Club 2.0",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -11692,174 +7802,73 @@ export const chieselfitnessclub20Gym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Chiesel Fitness Club 2.0 in Amravati?",
-    "description": "Located at Lane No. 1, in front of PDMC Hospital, Radha Nagar, Panchvati, Amravati, Maharashtra 444603, Chiesel Fitness Club 2.0 provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Chiesel Fitness Club 2.0",
+    "description": "Located at Lane No. 1, in front of PDMC Hospital, Radha Nagar, Panchvati, Amravati, Maharashtra 444603, Chiesel Fitness Club 2.0 offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.2/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "32+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Chiesel Fitness Club 2.0",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Chiesel Fitness Club 2.0",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Chiesel Fitness Club 2.0 Main Floor"
+      "caption": "Chiesel Fitness Club 2.0 Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Chiesel Fitness Club 2.0 has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Chiesel Fitness Club 2.0 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Chiesel Fitness Club 2.0! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -11883,23 +7892,23 @@ export const chieselfitnessclub20Gym: BusinessData = {
   ],
   "location": {
     "title": "Visit Chiesel Fitness Club 2.0",
-    "subtitle": "Lane No. 1, in front of PDMC Hospital, Radha Nagar, Panchvati, Amravati, Maharashtra 444603. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Lane No. 1, in front of PDMC Hospital, Radha Nagar, Panchvati, Amravati, Maharashtra 444603. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Chiesel Fitness Club 2.0?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Chiesel Fitness Club 2.0",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -11916,8 +7925,8 @@ export const infinityfitnesszumbaclubGym: BusinessData = {
   "slug": "infinity-fitness-zumba-club",
   "name": "Infinity fitness & zumba club",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Infinity fitness & zumba club is a premier fitness center located in Amravati. Rated 4.6\u2605 on Google Maps with over 32 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Weight loss service",
+  "description": "Infinity fitness & zumba club is located in Amravati (jaiswal medical, Shipna collage road, near gopal nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607). Rated 4.6\u2605 on Google Maps with over 32 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "INFINITY FITNESS & ZUMBA CLUB",
   "contact": {
     "phone": "070201 63101",
@@ -11950,11 +7959,11 @@ export const infinityfitnesszumbaclubGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.6\u2605 Google Rating)",
-    "heading": "Transform Your Body at Infinity fitness & zumba club",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.6\u2605 Google Rating)",
+    "heading": "Welcome to Infinity fitness & zumba club",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -11969,174 +7978,73 @@ export const infinityfitnesszumbaclubGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Infinity fitness & zumba club in Amravati?",
-    "description": "Located at jaiswal medical, Shipna collage road, near gopal nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607, Infinity fitness & zumba club provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Infinity fitness & zumba club",
+    "description": "Located at jaiswal medical, Shipna collage road, near gopal nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607, Infinity fitness & zumba club offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.6/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "32+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Infinity fitness & zumba club",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Infinity fitness & zumba club",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3838389/pexels-photo-3838389.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Infinity fitness & zumba club Main Floor"
+      "caption": "Infinity fitness & zumba club Facility"
     },
     {
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Infinity fitness & zumba club has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Infinity fitness & zumba club 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Infinity fitness & zumba club! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -12160,23 +8068,23 @@ export const infinityfitnesszumbaclubGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Infinity fitness & zumba club",
-    "subtitle": "jaiswal medical, Shipna collage road, near gopal nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "jaiswal medical, Shipna collage road, near gopal nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Infinity fitness & zumba club?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Infinity fitness & zumba club",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -12193,8 +8101,8 @@ export const turningpointfitnessbreakfaststudioGym: BusinessData = {
   "slug": "turning-point-fitness-breakfast-studio",
   "name": "Turning Point Fitness & Breakfast Studio",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Turning Point Fitness & Breakfast Studio is a premier fitness center located in Amravati. Rated 4.8\u2605 on Google Maps with over 27 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "Turning Point Fitness & Breakfast Studio is located in Amravati (C/o. S.R. Ghogare, 24, Infront of, Vidharb Housing Colony, Tope Nagar, Maltekdi, Amravati, Maharashtra 444602). Rated 4.8\u2605 on Google Maps with over 27 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "TURNING POINT FITNESS & BREAKFAST STUDIO",
   "contact": {
     "phone": "088884 93586",
@@ -12204,7 +8112,7 @@ export const turningpointfitnessbreakfaststudioGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/turning-point-fitness-breakfast-studio",
     "googleMaps": "https://www.google.com/maps?cid=1970769715934196137",
     "social": {
       "instagram": "",
@@ -12227,11 +8135,11 @@ export const turningpointfitnessbreakfaststudioGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.8\u2605 Google Rating)",
-    "heading": "Transform Your Body at Turning Point Fitness & Breakfast Studio",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.8\u2605 Google Rating)",
+    "heading": "Welcome to Turning Point Fitness & Breakfast Studio",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -12246,174 +8154,73 @@ export const turningpointfitnessbreakfaststudioGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Turning Point Fitness & Breakfast Studio in Amravati?",
-    "description": "Located at C/o. S.R. Ghogare, 24, Infront of, Vidharb Housing Colony, Tope Nagar, Maltekdi, Amravati, Maharashtra 444602, Turning Point Fitness & Breakfast Studio provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Turning Point Fitness & Breakfast Studio",
+    "description": "Located at C/o. S.R. Ghogare, 24, Infront of, Vidharb Housing Colony, Tope Nagar, Maltekdi, Amravati, Maharashtra 444602, Turning Point Fitness & Breakfast Studio offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.8/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "27+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Turning Point Fitness & Breakfast Studio",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Turning Point Fitness & Breakfast Studio",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/4162489/pexels-photo-4162489.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Turning Point Fitness & Breakfast Studio Main Floor"
+      "caption": "Turning Point Fitness & Breakfast Studio Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Turning Point Fitness & Breakfast Studio has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Turning Point Fitness & Breakfast Studio 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Turning Point Fitness & Breakfast Studio! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -12437,23 +8244,23 @@ export const turningpointfitnessbreakfaststudioGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Turning Point Fitness & Breakfast Studio",
-    "subtitle": "C/o. S.R. Ghogare, 24, Infront of, Vidharb Housing Colony, Tope Nagar, Maltekdi, Amravati, Maharashtra 444602. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "C/o. S.R. Ghogare, 24, Infront of, Vidharb Housing Colony, Tope Nagar, Maltekdi, Amravati, Maharashtra 444602. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Turning Point Fitness & Breakfast Studio?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Turning Point Fitness & Breakfast Studio",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -12470,8 +8277,8 @@ export const dancefitwithritaGym: BusinessData = {
   "slug": "dance-fit-with-rita",
   "name": "DANCE FIT WITH RITA",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "DANCE FIT WITH RITA is a premier fitness center located in Amravati. Rated 5.0\u2605 on Google Maps with over 21 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Fitness center",
+  "description": "DANCE FIT WITH RITA is located in Amravati (Mantra Fitness Studio, Krishna Nagar Lane No. 2, Shegaon Naka Rd, near New Cotton Market, Amravati, Maharashtra 444601). Rated 5.0\u2605 on Google Maps with over 21 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "DANCE FIT WITH RITA",
   "contact": {
     "phone": "084213 00000",
@@ -12481,7 +8288,7 @@ export const dancefitwithritaGym: BusinessData = {
     "city": "Amravati",
     "state": "Maharashtra",
     "country": "India",
-    "website": "",
+    "website": "https://sorixstudio.in/demos/dance-fit-with-rita",
     "googleMaps": "https://www.google.com/maps?cid=17775526564647210810",
     "social": {
       "instagram": "",
@@ -12504,11 +8311,11 @@ export const dancefitwithritaGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (5.0\u2605 Google Rating)",
-    "heading": "Transform Your Body at DANCE FIT WITH RITA",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (5.0\u2605 Google Rating)",
+    "heading": "Welcome to DANCE FIT WITH RITA",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -12523,174 +8330,73 @@ export const dancefitwithritaGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose DANCE FIT WITH RITA in Amravati?",
-    "description": "Located at Mantra Fitness Studio, Krishna Nagar Lane No. 2, Shegaon Naka Rd, near New Cotton Market, Amravati, Maharashtra 444601, DANCE FIT WITH RITA provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About DANCE FIT WITH RITA",
+    "description": "Located at Mantra Fitness Studio, Krishna Nagar Lane No. 2, Shegaon Naka Rd, near New Cotton Market, Amravati, Maharashtra 444601, DANCE FIT WITH RITA offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "5.0/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "21+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - DANCE FIT WITH RITA",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - DANCE FIT WITH RITA",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "DANCE FIT WITH RITA Main Floor"
+      "caption": "DANCE FIT WITH RITA Facility"
     },
     {
       "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! DANCE FIT WITH RITA has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined DANCE FIT WITH RITA 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at DANCE FIT WITH RITA! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -12714,23 +8420,23 @@ export const dancefitwithritaGym: BusinessData = {
   ],
   "location": {
     "title": "Visit DANCE FIT WITH RITA",
-    "subtitle": "Mantra Fitness Studio, Krishna Nagar Lane No. 2, Shegaon Naka Rd, near New Cotton Market, Amravati, Maharashtra 444601. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "Mantra Fitness Studio, Krishna Nagar Lane No. 2, Shegaon Naka Rd, near New Cotton Market, Amravati, Maharashtra 444601. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at DANCE FIT WITH RITA?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with DANCE FIT WITH RITA",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -12747,8 +8453,8 @@ export const shyamyadavfitnessgymtrainerGym: BusinessData = {
   "slug": "shyam-yadav-fitness-gym-trainer",
   "name": "Shyam Yadav Fitness (Gym Trainer)",
   "type": "gym",
-  "tagline": "Amravati's Premier Destination for Fitness & Strength",
-  "description": "Shyam Yadav Fitness (Gym Trainer) is a premier fitness center located in Amravati. Rated 4.9\u2605 on Google Maps with over 20 verified member reviews, we feature state-of-the-art equipment, certified trainers, and personalized transformation programs.",
+  "tagline": "Amravati's Trusted Destination for Personal trainer",
+  "description": "Shyam Yadav Fitness (Gym Trainer) is located in Amravati (3rd Floor, Next Level Mall, opposite mehfil hotel Girl square, Paranjpe Colony, Amravati, Maharashtra 444602). Rated 4.9\u2605 on Google Maps with over 20 verified reviews, featuring certified professionals and premium facilities.",
   "logoText": "SHYAM YADAV FITNESS (GYM TRAINER)",
   "contact": {
     "phone": "090213 15587",
@@ -12781,11 +8487,11 @@ export const shyamyadavfitnessgymtrainerGym: BusinessData = {
   },
   "hero": {
     "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
-    "badge": "Verified Amravati Gym (4.9\u2605 Google Rating)",
-    "heading": "Transform Your Body at Shyam Yadav Fitness (Gym Trainer)",
-    "description": "Join Amravati's top-rated fitness community. World-class strength equipment, expert personal coaching, and structured transformation programs.",
-    "primaryCta": "Book Free Trial",
-    "secondaryCta": "View Membership Plans",
+    "badge": "Verified Amravati Business (4.9\u2605 Google Rating)",
+    "heading": "Welcome to Shyam Yadav Fitness (Gym Trainer)",
+    "description": "Experience excellence in Amravati. Top-rated services, expert care, and dedicated customer satisfaction.",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Contact Us",
     "align": "left"
   },
   "stats": [
@@ -12800,174 +8506,73 @@ export const shyamyadavfitnessgymtrainerGym: BusinessData = {
       "icon": "Award"
     },
     {
-      "label": "Active Members",
+      "label": "Happy Clients",
       "value": "500+",
       "icon": "Users"
     },
     {
-      "label": "Certified Coaches",
+      "label": "Expert Team",
       "value": "8+",
-      "icon": "Dumbbell"
+      "icon": "CheckCircle"
     }
   ],
   "about": {
     "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-    "heading": "Why Choose Shyam Yadav Fitness (Gym Trainer) in Amravati?",
-    "description": "Located at 3rd Floor, Next Level Mall, opposite mehfil hotel Girl square, Paranjpe Colony, Amravati, Maharashtra 444602, Shyam Yadav Fitness (Gym Trainer) provides a high-energy environment designed to help you achieve real fitness results. From strength training and body recomposition to cardio endurance and personalized diet plans, our certified coaches support you every step of the way.",
+    "heading": "About Shyam Yadav Fitness (Gym Trainer)",
+    "description": "Located at 3rd Floor, Next Level Mall, opposite mehfil hotel Girl square, Paranjpe Colony, Amravati, Maharashtra 444602, Shyam Yadav Fitness (Gym Trainer) offers top-tier services tailored to meet your health and wellness goals in Amravati.",
     "stats": [
       {
-        "label": "Facility Area",
-        "value": "6,500 sq ft"
+        "label": "Client Rating",
+        "value": "4.9/5.0"
       },
       {
-        "label": "Weekly Sessions",
-        "value": "35+"
-      },
-      {
-        "label": "Transformations",
-        "value": "450+"
+        "label": "Verified Reviews",
+        "value": "20+"
       }
     ],
-    "cta": "Explore Facility"
+    "cta": "Learn More"
   },
   "services": [
     {
-      "title": "Strength & Hypertrophy",
-      "description": "High-grade Olympic barbells, power racks, dumbell racks up to 50kg, and targeted plate-loaded machines.",
+      "title": "Core Services - Shyam Yadav Fitness (Gym Trainer)",
+      "description": "Specialized programs and services tailored for clients in Amravati.",
       "image": "https://images.pexels.com/photos/4164515/pexels-photo-4164515.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Dumbbell",
-      "cta": "Start Lifting"
+      "icon": "CheckCircle",
+      "cta": "Explore Services"
     },
     {
-      "title": "Personal Training",
-      "description": "One-on-one custom coaching, body composition analysis, and goal-focused workout routines.",
+      "title": "Personalized Consultations",
+      "description": "One-on-one sessions customized to your specific needs.",
       "image": "https://images.pexels.com/photos/6392833/pexels-photo-6392833.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
       "icon": "UserCheck",
-      "cta": "Book Coach"
-    },
-    {
-      "title": "Fat Loss & HIIT Classes",
-      "description": "High-intensity cardio circuits designed to accelerate fat loss, stamina, and cardiovascular fitness.",
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "Flame",
-      "cta": "Join Class"
-    },
-    {
-      "title": "Diet & Nutrition Guidance",
-      "description": "Personalized macro planning and nutritional advice tailored to muscle gain or fat loss goals.",
-      "image": "https://images.pexels.com/photos/3838335/pexels-photo-3838335.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "icon": "HeartPulse",
-      "cta": "Get Diet Plan"
+      "cta": "Book Consultation"
     }
   ],
-  "featured": {
-    "title": "Signature Transformation Programs",
-    "subtitle": "Proven workout routines designed for maximum strength, fat loss, and athletic performance.",
-    "items": [
-      {
-        "title": "90-Day Body Recomposition",
-        "description": "Comprehensive 3-month program focusing on lean muscle gain, strength progression, and body fat reduction.",
-        "image": "https://images.pexels.com/photos/2261481/pexels-photo-2261481.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b93,999",
-        "cta": "Enroll Now"
-      },
-      {
-        "title": "Personal Coaching Pass",
-        "description": "Dedicated 1-on-1 trainer guidance 3 days per week with customized workout & diet tracking.",
-        "image": "https://images.pexels.com/photos/3837781/pexels-photo-3837781.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-        "price": "\u20b95,499/mo",
-        "cta": "Apply Now"
-      }
-    ]
-  },
   "team": [
     {
-      "name": "Coach Rahul Sharma",
-      "role": "Head Fitness & Strength Coach",
+      "name": "Lead Specialist - Shyam Yadav Fitness (Gym Trainer)",
+      "role": "Chief Expert",
       "photo": "https://images.pexels.com/photos/3912944/pexels-photo-3912944.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified Strength Coach with 10+ years experience training athletes and fitness enthusiasts in Amravati.",
+      "description": "Experienced practitioner dedicated to delivering excellent service in Amravati.",
       "experience": "10+ Years"
-    },
-    {
-      "name": "Pooja Deshmukh",
-      "role": "Nutrition & HIIT Specialist",
-      "photo": "https://images.pexels.com/photos/18162098/pexels-photo-18162098.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&fit=crop",
-      "description": "Certified nutritionist and group exercise instructor specializing in weight loss and posture correction.",
-      "experience": "7+ Years"
     }
   ],
-  "plans": {
-    "title": "Membership Packages",
-    "subtitle": "Transparent pricing for Amravati fitness members. No hidden fees.",
-    "plans": [
-      {
-        "name": "1 Month Pass",
-        "price": "\u20b91,200",
-        "duration": "/month",
-        "description": "Flexible monthly pass for regular workouts.",
-        "features": [
-          "Full Gym Access",
-          "General Fitness Guidance",
-          "Locker Room Access"
-        ],
-        "cta": "Join Monthly"
-      },
-      {
-        "name": "3 Months Pass",
-        "price": "\u20b92,999",
-        "duration": "/quarter",
-        "description": "Our most popular package for steady progress.",
-        "features": [
-          "Full Gym Access",
-          "Diet Plan Included",
-          "1 Personal Trainer Session",
-          "Steam / Recovery Access"
-        ],
-        "cta": "Join Quarterly",
-        "popular": true
-      },
-      {
-        "name": "Annual Pass",
-        "price": "\u20b98,999",
-        "duration": "/year",
-        "description": "Best value annual commitment for maximum results.",
-        "features": [
-          "Unlimited Gym Access",
-          "Free Diet Re-assessments",
-          "4 PT Sessions included",
-          "Guest Passes (2/mo)"
-        ],
-        "cta": "Join Annual"
-      }
-    ]
-  },
   "gallery": [
     {
       "image": "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop",
       "category": "Facility",
-      "caption": "Shyam Yadav Fitness (Gym Trainer) Main Floor"
+      "caption": "Shyam Yadav Fitness (Gym Trainer) Facility"
     },
     {
       "image": "https://images.pexels.com/photos/6389516/pexels-photo-6389516.jpeg?auto=compress&cs=tinysrgb&w=1200&h=800&fit=crop",
-      "category": "Equipment",
-      "caption": "Heavy Weight Section"
-    },
-    {
-      "image": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "category": "Training",
-      "caption": "Group Workout Zone"
+      "category": "Services",
+      "caption": "Service Area"
     }
   ],
   "testimonials": [
     {
-      "name": "Amit V.",
-      "review": "Best gym in Amravati! Shyam Yadav Fitness (Gym Trainer) has top-quality machines and trainers who genuinely pay attention to posture and technique.",
-      "rating": 5,
-      "isDemo": true
-    },
-    {
-      "name": "Sneha P.",
-      "review": "Joined Shyam Yadav Fitness (Gym Trainer) 4 months ago for weight loss. The environment is super clean and encouraging!",
+      "name": "Verified Client",
+      "review": "Excellent experience at Shyam Yadav Fitness (Gym Trainer)! Highly recommended in Amravati.",
       "rating": 5,
       "isDemo": true
     }
@@ -12991,23 +8596,23 @@ export const shyamyadavfitnessgymtrainerGym: BusinessData = {
   ],
   "location": {
     "title": "Visit Shyam Yadav Fitness (Gym Trainer)",
-    "subtitle": "3rd Floor, Next Level Mall, opposite mehfil hotel Girl square, Paranjpe Colony, Amravati, Maharashtra 444602. Contact us via phone or WhatsApp for a free trial workout session.",
+    "subtitle": "3rd Floor, Next Level Mall, opposite mehfil hotel Girl square, Paranjpe Colony, Amravati, Maharashtra 444602. Contact us directly via phone or WhatsApp.",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14902.1!2d77.752!3d20.932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDU1JzU1LjIiTiA3N8KwNDUnMDcuMiJF!5e0!3m2!1sen!2sin!4v1700000000000"
   },
   "cta": {
-    "heading": "Ready to Transform at Shyam Yadav Fitness (Gym Trainer)?",
-    "description": "Book your free trial workout session today. Contact our head coach directly via WhatsApp or Phone.",
-    "primaryCta": "Book Free Session",
-    "secondaryCta": "Call Us"
+    "heading": "Get in Touch with Shyam Yadav Fitness (Gym Trainer)",
+    "description": "Contact us today for appointments, consultations, or inquiries.",
+    "primaryCta": "WhatsApp Us",
+    "secondaryCta": "Call Now"
   },
   "sections": {
     "hero": true,
     "stats": true,
     "about": true,
     "services": true,
-    "featured": true,
+    "featured": false,
     "team": true,
-    "plans": true,
+    "plans": false,
     "gallery": true,
     "testimonials": true,
     "location": true,
@@ -13028,9 +8633,11 @@ export const amravatiGyms: BusinessData[] = [
   kometathegymGym,
   welliestafitnessbestgymfitnessstudioGym,
   rajbodyfitnessgymGym,
+  alhakimhijamaandayurvedicinamravatiGym,
   talwalkarsgymGym,
   gravityfitnessclubGym,
   goldsgymamravatiGym,
+  citypoolGym,
   spartathegymGym,
   thakursportsGym,
   psdfitnessclubgymGym,
